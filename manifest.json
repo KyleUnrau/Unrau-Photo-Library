@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "library": "family-photo-archive",
-  "generated_at": "2025-12-14T03:12:50Z",
+  "generated_at": "2025-12-14T03:31:10Z",
   "hash_algorithm": "sha256",
   "collections": [
     {
@@ -128,12 +128,12 @@
       "collection_id": "2011",
       "blob": {
         "path": "Blobs/2011.zip",
-        "size_bytes": 2091529847,
-        "sha256": "7ff86961d16b1d94b2200e7c9245127a018bd2abd4d679f9b1a61cf1973f06a7"
+        "size_bytes": 2034651285,
+        "sha256": "d68df42a9d1ae077721fddcfbbe0b5275f5773ee69ba299ee7e874fc5814402a"
       },
       "manifest": {
         "path": "2011.json",
-        "sha256": "a987b06d59d1ca448f44ca9bc8cff643ff2503dfe0ccaf72bba688296c336326"
+        "sha256": "e9c9fbca25d6304d1a67fac86f14f833cabdcdfbb518e571f64e27ec95d8ee4a"
       }
     },
     {

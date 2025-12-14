@@ -1,11 +1,11 @@
 {
   "collection_id": "2011",
-  "generated_at": "2025-12-14T03:12:19Z",
+  "generated_at": "2025-12-14T03:30:40Z",
   "hash_algorithm": "sha256",
   "blob": {
     "path": "Blobs/2011.zip",
-    "size_bytes": 2091529847,
-    "sha256": "7ff86961d16b1d94b2200e7c9245127a018bd2abd4d679f9b1a61cf1973f06a7"
+    "size_bytes": 2034651285,
+    "sha256": "d68df42a9d1ae077721fddcfbbe0b5275f5773ee69ba299ee7e874fc5814402a"
   },
   "files": [
     {
@@ -1802,16 +1802,6 @@
       "path": "IMG_0360-da2f4633.JPG",
       "size_bytes": 2603893,
       "sha256": "f5e16c3d61d9fca1a1a99fd3d3b4296d0cf50dc1d5c68c4ffd87dc24d3d1971f"
-    },
-    {
-      "path": "IMG_0361-896f8664.MOV",
-      "size_bytes": 56925617,
-      "sha256": "4d41150acf6bffffee07076da5502156991c55ed10e2560784764b5f6dd7274b"
-    },
-    {
-      "path": "IMG_0361-bc1c3368.MOV",
-      "size_bytes": 23510,
-      "sha256": "d874b19230d3eda884a2b2e88db01ba76cb90307be1baa3803ab0d0be5d61183"
     },
     {
       "path": "IMG_0362-8243dc32.MOV",
