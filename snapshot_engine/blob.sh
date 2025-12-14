@@ -101,7 +101,7 @@ done < <(
 )
 
 # ---------- write manifest ----------
-mkdir -p $(dirname "$MANIFEST")
+mkdir -p "$(dirname -- "$MANIFEST")"
 
 jq -n \
   --arg collection_id "$COLLECTION_ID" \
