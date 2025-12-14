@@ -36,7 +36,7 @@ find "$BLOBS_PATH" -type f -name '*.zip' | LC_ALL=C sort | while read -r zip; do
   mkdir -p "$out_dir"
 
   chmod +x "${BLOB_GENERATOR}"
-  "$BLOB_GENERATOR" "$rel" "$out_file"
+  bash "$BLOB_GENERATOR" "$rel" "$out_file"
 done
 
 log "Blob manifests updated successfully."

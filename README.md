@@ -162,3 +162,5 @@ This is the long‑term value of the system.
 * Hashes let us detect corruption or loss
 
 This system exists so future family members can trust the archive — even decades from now.
+
+![2005 -> a284293c92b672858de4d5b3481e4fa5602904afbd2664d65ea7062c4f33780a](Other/HeroImage2.jpg)

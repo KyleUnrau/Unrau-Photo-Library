@@ -41,7 +41,7 @@ esac
 
 if [[ "$RUN_UPDATE" == true ]]; then
   chmod +x "${ALL_BLOB_GENERATE}"
-  "${ALL_BLOB_GENERATE}"
+  bash "${ALL_BLOB_GENERATE}"
 else
   log "Skipping blob manifest generation (--no-blobs)"
 fi

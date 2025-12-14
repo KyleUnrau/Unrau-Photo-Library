@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "library": "family-photo-archive",
-  "generated_at": "2025-12-14T02:08:20Z",
+  "generated_at": "2025-12-14T03:12:50Z",
   "hash_algorithm": "sha256",
   "collections": [
     {
@@ -13,7 +13,7 @@
       },
       "manifest": {
         "path": "2000.json",
-        "sha256": "9bf18838e18f5919690cb60dd2b1bc7974db2efe96926392b3ae32c6d64e9d5f"
+        "sha256": "db43e238218dd84bf6c4c25686d0034b0c098f5f122edb46066b78b093175cce"
       }
     },
     {
@@ -25,7 +25,7 @@
       },
       "manifest": {
         "path": "2002.json",
-        "sha256": "92ce6d7d3671a8d6ec5d7d393e767c23baf083055152a07f94a83f759ecad785"
+        "sha256": "2863183ecd87b7c21dd91bd90e2b27682fdeedf98d18d0716db12d6c488c3663"
       }
     },
     {
@@ -37,7 +37,7 @@
       },
       "manifest": {
         "path": "2003.json",
-        "sha256": "be286be0ba18fbecdc4388e9aa183ec1a43ee7d2f79070cf8dc71442b4384d47"
+        "sha256": "09fa63fc2dc3690ef80e3acfabd51bb762ecd91f2382633d9b484df83196748d"
       }
     },
     {
@@ -49,7 +49,7 @@
       },
       "manifest": {
         "path": "2004.json",
-        "sha256": "5f41e219e257031d0b18bea0222b9b2da9c4831b1c531b78b7e3222b0eaf191a"
+        "sha256": "de1530c0899456b460fd70133a2cbe2ce4e06e7bea76ac9e5959e14ceaa1693a"
       }
     },
     {
@@ -61,7 +61,7 @@
       },
       "manifest": {
         "path": "2005.json",
-        "sha256": "ede6431268bb08f2f86d096ac11884dcbb7681512a25a4ab22892147971fc994"
+        "sha256": "0026ca0798273fc2850fe01ae0ef828430f8b71e813756091cf516fd434613f2"
       }
     },
     {
@@ -73,7 +73,7 @@
       },
       "manifest": {
         "path": "2006.json",
-        "sha256": "9858bce0c2c7f176ae72f75ba9464c654665196c3fd348e5ee760f88bdb4c6b9"
+        "sha256": "148a37e9614352083018bdd72529981e088302d1d807c95ddb1055adf8753bac"
       }
     },
     {
@@ -85,7 +85,7 @@
       },
       "manifest": {
         "path": "2007.json",
-        "sha256": "4ba62800772b89202fe962a7233ae24d6e6ab716c6a2d397e2758e2c653e2e53"
+        "sha256": "fbf65653cd22c3cf97609fb62bf538a3cd6631d812091eaf9b4d89a48bda5c96"
       }
     },
     {
@@ -97,7 +97,7 @@
       },
       "manifest": {
         "path": "2008.json",
-        "sha256": "5f857841c40a014c21e6dd3cf8226cedaf5367942787df3c615c885b9c92215b"
+        "sha256": "9b131a1e6ceb9eeb5159256cfddc8864b82e8548f5cbae082a487fe57de0ade6"
       }
     },
     {
@@ -109,7 +109,7 @@
       },
       "manifest": {
         "path": "2009.json",
-        "sha256": "455d3ae2d66b07e18a706ec5c1c8d829f498f309e5d0082d9424878069dc22e9"
+        "sha256": "f9b01d60d57c4cc7b5a4072d9c7e9521297fe40951efc305ef821cde0e3b6038"
       }
     },
     {
@@ -121,19 +121,19 @@
       },
       "manifest": {
         "path": "2010.json",
-        "sha256": "e04e8db7da17354dcc638ec1e67cfccf9c0790e1faa5c522ea51b55efce7ead3"
+        "sha256": "7fc5c66c6de0ff152dfdf070ef99eac019ae1925ef32288ec94d4d5dcd345815"
       }
     },
     {
       "collection_id": "2011",
       "blob": {
         "path": "Blobs/2011.zip",
-        "size_bytes": 2335407517,
-        "sha256": "1d75b39643d02d9200e6d9c682c9421e6711f3f835d4e0e50e30df9c5b557ec9"
+        "size_bytes": 2091529847,
+        "sha256": "7ff86961d16b1d94b2200e7c9245127a018bd2abd4d679f9b1a61cf1973f06a7"
       },
       "manifest": {
         "path": "2011.json",
-        "sha256": "f98f9c66f5b43e78a0caf0ea3961c964579ed03247f3a7ccb8d6c4b6f4f3b57a"
+        "sha256": "a987b06d59d1ca448f44ca9bc8cff643ff2503dfe0ccaf72bba688296c336326"
       }
     },
     {
@@ -145,7 +145,7 @@
       },
       "manifest": {
         "path": "2012.json",
-        "sha256": "c75770e6f1440d08c4ed26d7d6c0c6818071a36ee51f8929ebdc5c5ce33019e8"
+        "sha256": "87820df258c82b51cb0273b129189e54527f64035eb4b33eb836048f73f4ebde"
       }
     },
     {
@@ -157,7 +157,7 @@
       },
       "manifest": {
         "path": "2013.json",
-        "sha256": "fb77b2ca22d1d63ddbe99c8f8e87fd7170e1309ec73784604b743bc3834bf02c"
+        "sha256": "450ec8368748e2d594ef0f17fd493c3574da4736bd8b581a0fd9d340df027774"
       }
     },
     {
@@ -169,7 +169,7 @@
       },
       "manifest": {
         "path": "2014.json",
-        "sha256": "be0ed04eb67dd4da74252c25c280c2fd8dcf00b3b644e08ea5338d40d199e6f4"
+        "sha256": "27f4561edc931ec9e2dd09fb0ef5691c4cdfaa6d1ed168810c9804e6e37494c7"
       }
     },
     {
@@ -181,7 +181,7 @@
       },
       "manifest": {
         "path": "2015.json",
-        "sha256": "6eba47961553f7028d171ed13cbc3514e0934109f894b58f6fcc162872bf186a"
+        "sha256": "cd67185f6764bf0e08fbb4c67caa2510c5eea0f023df97239bbff2153a2403bf"
       }
     },
     {
@@ -193,7 +193,7 @@
       },
       "manifest": {
         "path": "2016.json",
-        "sha256": "ae7e681eca5f8683c1e4c95e0c894a88c83eb48d9ce9d48891287afcff3ec195"
+        "sha256": "7ae588405040da7a287e05d3d2e400ea97a126f75c645590371441ba2d6950e3"
       }
     },
     {
@@ -205,7 +205,7 @@
       },
       "manifest": {
         "path": "2017.json",
-        "sha256": "8ac77c533e9c45357d143a11a7d8e75ea66a43b6a8ce4c9e36cfcd3d111ab4c9"
+        "sha256": "61e00a3039a5014c065a1b0ba410feab6ac5a2b43ba8291d69661e3b8547fba8"
       }
     },
     {
@@ -217,7 +217,7 @@
       },
       "manifest": {
         "path": "2018.json",
-        "sha256": "49587400aff98cb4d0c55cc528f535255c77c78e11683b93896963dbc740ad12"
+        "sha256": "5fe2c5bd807249b24ed19919ae670358540492fc3710bf38cd6de3dde697cde9"
       }
     },
     {
@@ -229,7 +229,7 @@
       },
       "manifest": {
         "path": "2019.json",
-        "sha256": "f9df40020f15fbeaa2bd456d63057c34e2a873b37a6f1f7a6584887d90eda010"
+        "sha256": "42fd45805fef7cad629d4479945c07a1f5fd38c475a0c8040dcbd083f716782a"
       }
     },
     {
@@ -241,7 +241,7 @@
       },
       "manifest": {
         "path": "2020.json",
-        "sha256": "acd4224c51a37e457003226655e52c91d176a9fe037a6f7726a94dd9724a8dd9"
+        "sha256": "99da9ecfecd7090279c20c99a00f96988dc7bdb1f6243885a8a4e2e5000b03de"
       }
     },
     {
@@ -253,7 +253,7 @@
       },
       "manifest": {
         "path": "2021.json",
-        "sha256": "6d4770175f80e61ce7acbba298a861d9aef69c4cad2ba9e5e96e0ecadfe64c08"
+        "sha256": "e0f92d9745f53f200616c583b954f552010040ad394b9a4def6a2a2f15620136"
       }
     },
     {
@@ -265,7 +265,7 @@
       },
       "manifest": {
         "path": "2022.json",
-        "sha256": "812aec08688afe4ece2fd75e7697bc0b50a857b709a17afd8ad14a2f036a1474"
+        "sha256": "c3096467af6d76807057ad52a6d4b1577bdcbbc237e0afa4d5bdd0c0f585b6e1"
       }
     },
     {
@@ -277,7 +277,7 @@
       },
       "manifest": {
         "path": "2023.json",
-        "sha256": "5df44cba586b6f024a6d8eda5f743c9486da1d605b47b6b6a565281ab18568e2"
+        "sha256": "67dea1a203c6e233a63d7ca0fee3a04a2a58ec769c87db5c46e004f7259532da"
       }
     },
     {
@@ -289,7 +289,7 @@
       },
       "manifest": {
         "path": "2024.json",
-        "sha256": "34599c5e51253a95085137c1a86c5aeed8c60683d1a4d0f02d1821ad212baa33"
+        "sha256": "2ca89a9a12fc56ccdfb77a43588ebb379948dd5a83dec4f641b4de8d0ca64517"
       }
     },
     {
@@ -301,7 +301,7 @@
       },
       "manifest": {
         "path": "2025.json",
-        "sha256": "453fe48a979844d96b889bf39fba06d417bbd5b8af1d520c75437037680b9b41"
+        "sha256": "3acbdea2ae209b172f1d593ce60b1e0edc0895ef43681f86f68f006f2be2821c"
       }
     },
     {
@@ -313,7 +313,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2004.json",
-        "sha256": "17be16255ed6f8bec47f6ab174a5585f6047a09be4ee236f2760613186fefdba"
+        "sha256": "6cc5ebc44cc0f70d5d66a4586e5e35746f9bc190f5b8806ad4c7ec945aae6e25"
       }
     },
     {
@@ -325,7 +325,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2007.json",
-        "sha256": "c634287a8a43fa56231a5672d7f795223cb09be854485ec52e65d352ef615b52"
+        "sha256": "17a16bc14d2cbe9a3246a22135de704191b373f81f0cca42fa866e91e81fd797"
       }
     },
     {
@@ -337,7 +337,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2008.json",
-        "sha256": "9b670a8513f13a27810d8cb7b74e04d937f03f8d9eb94c40c66d8a2ce98c2714"
+        "sha256": "23c4d8b975562fc23274e946984a356358183b619e418cc7551c46dcb3274fca"
       }
     },
     {
@@ -349,7 +349,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2009.json",
-        "sha256": "160047e992a1ef2f795080ffa75f5348a24be02108fa8561a4a74e4771f307eb"
+        "sha256": "a60faa02ae1a81becd59469d6f9faf9a14900c2e247f369a8963ec6d9f00c808"
       }
     },
     {
@@ -361,7 +361,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2010.json",
-        "sha256": "a869c87c161aea91878f5bb987aa147c812de4c492300c08ad229c894edff88f"
+        "sha256": "a6a71979543903f43d54257f65e64a095adffe14babdfa6245dfad5f2922ec7e"
       }
     },
     {
@@ -373,7 +373,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2011.json",
-        "sha256": "c20fe66f2754965992075b0785872c9b4b39f0b4f292d14abcfb97af4c73ca16"
+        "sha256": "968d5acc55d18a20cb2f9249963baae5418c7cfbe886eae28e7fd288ec2f1df6"
       }
     },
     {
@@ -385,7 +385,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2012.json",
-        "sha256": "31987b1b181278ab2a31cde5d0c5c7c1438d9dcde5dc5aa2117c7ba4cc57cc41"
+        "sha256": "cff2abc0fdb7efa79881830030bb259272b67934e8c5e3b15664af65f3fa6ad5"
       }
     },
     {
@@ -397,7 +397,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2013.json",
-        "sha256": "6d74105ed0f8a872d36e1dff6f68097c0d3805b7d2dd6283e4c4177ca72841c7"
+        "sha256": "cb5b8a6a656bf66645c47f3c446e049936a2604f06d3a4947f480f116a9c93ce"
       }
     },
     {
@@ -409,7 +409,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2014.json",
-        "sha256": "b27c935a0011b6bae35d19154d2550aed53cd0fcf91904c61d9bd7fd3324d819"
+        "sha256": "cabc13a177a88dd7925ed19c3a828db98ed1e8fd0ea7dbb49fba84816e27a38c"
       }
     },
     {
@@ -421,7 +421,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2015.json",
-        "sha256": "23c1479ced6c9457643db196a70e61cc093594b9dd1a50f6fe1514c5b50b71be"
+        "sha256": "a8574172108f0f0a6d946cf475fb2aaf2aed9b2ff21ac60ccbe6b1bd49ef399f"
       }
     },
     {
@@ -433,7 +433,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2018.json",
-        "sha256": "2082bba9c7b10d908b36c593c2f5e32df0bc889eb619fa16bab6d44c028e7457"
+        "sha256": "5c4a748d7a61aabcc7b3927e3e27d1b70f44044de8c380550d5247d461b936d0"
       }
     },
     {
@@ -445,7 +445,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2019.json",
-        "sha256": "296baf7a914f419d76877f7a4fbe126f95d9f023636840203a3781ba076505dc"
+        "sha256": "3c4fda0d1b818562ba91d5a68b34b47a873b0c11dd62c9ea3b9cf590edb18bc6"
       }
     },
     {
@@ -457,7 +457,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2024.json",
-        "sha256": "cf1b06bc1ec3ba3c7eb8f10cc6a9fd77ee63c7a03241472010102347daa037f8"
+        "sha256": "4f05a0552f86823a0803759338a259020d4994abc1997f9b4f49dfccb713a219"
       }
     },
     {
@@ -469,7 +469,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/None/Photos.json",
-        "sha256": "e3781834e3351177ad5904a62064b1541351850ec858bbc61a4c16b2f982d96e"
+        "sha256": "b0c3930777e44bea9a4e6de7fcdb78e267de1f68aacd620d3b1f49c6c4f881df"
       }
     },
     {
@@ -481,7 +481,7 @@
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/None/Videos.json",
-        "sha256": "66af7b1fcacf922f64f2af05178cba284e1cd3f2f02fdb88497104483829ecc3"
+        "sha256": "2876c713b60cd8d5fa7b99bdbada7b0e288bf3bb797cdcf3213f17334ff96752"
       }
     }
   ]

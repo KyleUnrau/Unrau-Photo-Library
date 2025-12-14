@@ -1,11 +1,11 @@
 {
   "collection_id": "2011",
-  "generated_at": "2025-12-14T02:03:59Z",
+  "generated_at": "2025-12-14T03:12:19Z",
   "hash_algorithm": "sha256",
   "blob": {
     "path": "Blobs/2011.zip",
-    "size_bytes": 2335407517,
-    "sha256": "1d75b39643d02d9200e6d9c682c9421e6711f3f835d4e0e50e30df9c5b557ec9"
+    "size_bytes": 2091529847,
+    "sha256": "7ff86961d16b1d94b2200e7c9245127a018bd2abd4d679f9b1a61cf1973f06a7"
   },
   "files": [
     {
@@ -17,26 +17,6 @@
       "path": "122.JPG",
       "size_bytes": 1906723,
       "sha256": "ae054654a7d17a63513d36e89ab728b955ab513368b864d27d945fc94c2af2a8"
-    },
-    {
-      "path": "124.JPG",
-      "size_bytes": 1913827,
-      "sha256": "7e4e13c85a2501a82183dee2d288bb7c89ceafae6a4e5fe32e723837d1deae92"
-    },
-    {
-      "path": "126.JPG",
-      "size_bytes": 2389246,
-      "sha256": "4309df739249be138951d435f66a56e10e35eed1632cb586247ab29eb002a34a"
-    },
-    {
-      "path": "128.JPG",
-      "size_bytes": 2409547,
-      "sha256": "9592d2c6714c00aed2b3eb19eea3c144264e945f87657686657b1578063b601a"
-    },
-    {
-      "path": "130.JPG",
-      "size_bytes": 2503710,
-      "sha256": "d41c5e8c0fb22143ec2300707a1242dc32ecf3dcdd8d2c4a7d2d79fcdf413f6e"
     },
     {
       "path": "135.MOV",
@@ -247,36 +227,6 @@
       "path": "70 th Birthday ++ 004-93d931fd.JPG",
       "size_bytes": 4307220,
       "sha256": "f694e6da5a3be4e399b7a6ba84192ae8b84c54075db1dc015fadfa692b4acca3"
-    },
-    {
-      "path": "70 th Birthday ++ 005-4213f1eb.JPG",
-      "size_bytes": 4129003,
-      "sha256": "79eef550f0b7e745487fa658187db64bace6ecf8a6514b0d7cfb8cbef73a8388"
-    },
-    {
-      "path": "70 th Birthday ++ 006-f0c3e09c.JPG",
-      "size_bytes": 4426460,
-      "sha256": "5f4a1fdbc19c4ccc9f1199583a77bc64082a7bcaaebf517c5efeaf5311f531fe"
-    },
-    {
-      "path": "70 th Birthday ++ 007-22882e95.JPG",
-      "size_bytes": 3933350,
-      "sha256": "1ae87aeffa01ffe227a540481ebc00894dac6a80d97c44ef620128074ed3a3a9"
-    },
-    {
-      "path": "70 th Birthday ++ 008-a1c1f46b.JPG",
-      "size_bytes": 4282097,
-      "sha256": "784a5d0f54d9dcca70b67784a1cd1850560908a41fc4aee95901f8784e041966"
-    },
-    {
-      "path": "70 th Birthday ++ 009-0b5bbe6f.JPG",
-      "size_bytes": 4402956,
-      "sha256": "a7ef3044f3f159647d1c0d144d305a8f14937e0860bfd9cbac65a522ad96f9de"
-    },
-    {
-      "path": "70 th Birthday ++ 010-8f864d6e.JPG",
-      "size_bytes": 4052082,
-      "sha256": "f2e1b7ea27fd9f09119cb113e8de22c511edadaac46ef1daff2bd0bdcb9a5c38"
     },
     {
       "path": "70 th Birthday ++ 011-bfa1e7ac.JPG",
@@ -1589,11 +1539,6 @@
       "sha256": "de05b2206275bd48c106caa5318f181474ec8f422c7a2536ed5b6895a7a5cf01"
     },
     {
-      "path": "IMG_0304-7bd51963.jpg",
-      "size_bytes": 2243927,
-      "sha256": "a49535e4eeb49da6790428502b3f4ca3bb88f5a6fc11f792be252e5c95eb2b22"
-    },
-    {
       "path": "IMG_0305-a1c28edc.jpg",
       "size_bytes": 100570,
       "sha256": "f1fd7043b970c8f25043100ca3ef0de3af0a9de82f6e88fde925b46c76816f9c"
@@ -1969,19 +1914,9 @@
       "sha256": "e31365a0d4aff2e01425f6a62c529805510ea1aabecdd7ada7b5e5d2f6be3f2a"
     },
     {
-      "path": "IMG_0373-8510ba9d.MOV",
-      "size_bytes": 147118925,
-      "sha256": "769b288abcd271980c02a3cc3a416ecd609563b4814cb2956b630c0c82ab2bac"
-    },
-    {
       "path": "IMG_0374-f6ee18ab.MOV",
       "size_bytes": 13456,
       "sha256": "6e04a3a9b2e871d836f2dd64645625f6b6a66bb451a7ceeec0bfa19f4562cb27"
-    },
-    {
-      "path": "IMG_0374.MOV",
-      "size_bytes": 22702125,
-      "sha256": "1b4e4b82c38bea3b8ed51e3e40d790ed8a10f1667afaa71168cdbc1d956d3acb"
     },
     {
       "path": "IMG_0375-638fc263.MOV",
@@ -1989,19 +1924,9 @@
       "sha256": "8d33e875429b040fb5c054e0c4e02a7907416c7d5f79a04b10c09c80dd15f847"
     },
     {
-      "path": "IMG_0375-e58fbc8c.MOV",
-      "size_bytes": 34743516,
-      "sha256": "3ed244c5f981617bb972ce01627f842b17b1a318b136780014c0d9ecdbe25102"
-    },
-    {
       "path": "IMG_0377-7246e677.jpg",
       "size_bytes": 2106446,
       "sha256": "25a0cac662bb7a64a56ca2393d238676928441a5cb9e00fceb42eed177b4a9b4"
-    },
-    {
-      "path": "IMG_0377-ccb7a6a8.JPG",
-      "size_bytes": 2947350,
-      "sha256": "27c0c376873359b7f7d90a685ea9b533041de93ea1503c91f8817cabc8ddd67d"
     },
     {
       "path": "IMG_0378-359955f6.MOV",
