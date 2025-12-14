@@ -1,0 +1,158 @@
+{
+  "collection_id": "Kyle & Luke",
+  "generated_at": "2025-12-14T18:57:54Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "07d493cb7b3be4cd181c1b22ef45327d0e7fd0c0c326bfa7969d486cbce27418.zip",
+    "size_bytes": 89328321,
+    "sha256": "07d493cb7b3be4cd181c1b22ef45327d0e7fd0c0c326bfa7969d486cbce27418"
+  },
+  "files": [
+    {
+      "path": "IMG_0046(1).HEIC",
+      "size_bytes": 1602114,
+      "sha256": "f0922a7255ac7a467d0129239ea143ca716fa0f73d1dd0b6a79e1b5de9353a11"
+    },
+    {
+      "path": "IMG_0047(1).HEIC",
+      "size_bytes": 1595331,
+      "sha256": "97c216f0fc579b83a05c570d21da0d9fc0e2b6e32785ffc015d72a48736e5403"
+    },
+    {
+      "path": "IMG_0049-1b6d6063.MOV",
+      "size_bytes": 1385280,
+      "sha256": "1194f8724ecd5d73ff9e647a894d95308c06ef9a567a6d3be2ace390cc298559"
+    },
+    {
+      "path": "IMG_0049.HEIC",
+      "size_bytes": 2660634,
+      "sha256": "7b9a3d961326fbb711fe570f072f620f44338f7c453a3881d23b118ad0bd67d2"
+    },
+    {
+      "path": "IMG_0050(1).HEIC",
+      "size_bytes": 2328777,
+      "sha256": "986d4b9b83a14739b9435cead421504dc2b8bd3592e298c51e52c6d8b8c9bac1"
+    },
+    {
+      "path": "IMG_0050-1.MOV",
+      "size_bytes": 1477767,
+      "sha256": "d420ce2bb73c369dad3db7c04416da61999d1f9e0d44edd5b2c0f8e624238877"
+    },
+    {
+      "path": "IMG_0051-9c90b7ad.MOV",
+      "size_bytes": 1365831,
+      "sha256": "2ae0cf14837bebf4d20f8b61a90e2dc0bc7e06d63c8a8b05d08646e149ce5931"
+    },
+    {
+      "path": "IMG_0051.HEIC",
+      "size_bytes": 3616781,
+      "sha256": "669a8d81301daacdf54bd8d6a12354b61be6be61a0e53f8f9245d9dd459ba1f7"
+    },
+    {
+      "path": "IMG_0052(1).HEIC",
+      "size_bytes": 2650112,
+      "sha256": "3aad73ee932d2e3a885371d916217b5610d2cb4a152abe568fa9a4671bfb1301"
+    },
+    {
+      "path": "IMG_0052-a64ee64d.MOV",
+      "size_bytes": 1866274,
+      "sha256": "555bc854142c1f5495232bdd150bca4c03c1f23a422bbd75005ee895a10fd8ea"
+    },
+    {
+      "path": "IMG_0053.MP4",
+      "size_bytes": 31814876,
+      "sha256": "404252620db86bc2094d6bf7e67220ffaacec5cf304ed7e06b6944f9220c23d4"
+    },
+    {
+      "path": "IMG_0054-f6143e87.MOV",
+      "size_bytes": 1416725,
+      "sha256": "8846d4d2d5de00a42eceb491512d7bb04000543817610383befc7a5d6573046a"
+    },
+    {
+      "path": "IMG_0054.HEIC",
+      "size_bytes": 2861247,
+      "sha256": "3b853e6cfdb322687c7bec74062c54bcfa63ca1390b228edc2566c521811f787"
+    },
+    {
+      "path": "IMG_0055.HEIC",
+      "size_bytes": 3597514,
+      "sha256": "7943c8c6b71adc1c915575272250294c772f5311666dc66728f1ed3397af558c"
+    },
+    {
+      "path": "IMG_0056.HEIC",
+      "size_bytes": 3352302,
+      "sha256": "f00641468b99415d2b26b48c11ec37d2e5b9d340dc596a4171b1cba4d766c174"
+    },
+    {
+      "path": "IMG_0057.MP4",
+      "size_bytes": 3222977,
+      "sha256": "4dc351cd7becbf095a44f1fbcbb2fc35f1fda549979939ab59a57e8ff10293ed"
+    },
+    {
+      "path": "IMG_0058(1).HEIC",
+      "size_bytes": 3284585,
+      "sha256": "8e9f94a2d7f3595281c9128bc391696b7bdd26c3bbf48e8f8613a2e7ddc458a6"
+    },
+    {
+      "path": "IMG_0058-b7f948fb.MOV",
+      "size_bytes": 1633745,
+      "sha256": "35170b0bd05cffa25ad13867913425db56f8fa2751d27ce9d04578fed82a3d33"
+    },
+    {
+      "path": "IMG_0059-af5a15ba.MOV",
+      "size_bytes": 1633753,
+      "sha256": "887f35c8b64eefef599e446c06bb8823c23860321e5cf1f11609389ec644f700"
+    },
+    {
+      "path": "IMG_0059.HEIC",
+      "size_bytes": 2354998,
+      "sha256": "c83792a03f8aa53a0f7736abefa436f905f8a4113b7e0e6acb96cf912eecbadc"
+    },
+    {
+      "path": "IMG_0060.HEIC",
+      "size_bytes": 3534182,
+      "sha256": "42a529826b6dbd4e45e0ec78f3b4a8fd68382db4969712f4a2f34e7d93df6b40"
+    },
+    {
+      "path": "IMG_0061(1).HEIC",
+      "size_bytes": 866308,
+      "sha256": "409be814546877d450c5e3e702d0093510644ec9b766ff2acb031a74e28a67f1"
+    },
+    {
+      "path": "IMG_0061-6bbd5d49.MOV",
+      "size_bytes": 1792137,
+      "sha256": "476e27f0c1164fe4673d84a04d0e22b7ef1d2d65144e045b179276b9e4e87668"
+    },
+    {
+      "path": "IMG_0062(1).HEIC",
+      "size_bytes": 870584,
+      "sha256": "f6faa3b44b5873c869cdc30bab9713eed7dde5be4015b2d6f6a74f000bf91237"
+    },
+    {
+      "path": "IMG_0062-7dc1caa6.MOV",
+      "size_bytes": 1771255,
+      "sha256": "8d06d62e1906c564ba027565c1bc2fc469ad647c6f974a27add5f57a341b7cd5"
+    },
+    {
+      "path": "IMG_0063(1).HEIC",
+      "size_bytes": 414690,
+      "sha256": "a6743d7a9ae67cb86dd12eac9200eb5504ab1d881e3882bb6c5cd2863cb0466e"
+    },
+    {
+      "path": "IMG_0063-7e161171.MOV",
+      "size_bytes": 1115463,
+      "sha256": "3002b0f0793f8cc05452cac977c94d7e64bf19888730b06c695ba0d082960067"
+    },
+    {
+      "path": "IMG_0166-b487b3d9.jpg",
+      "size_bytes": 1907992,
+      "sha256": "3673e3d4edbf1cc4a3410e32bce37da1f19884117f9fcf733a4dcacf35bf65cc"
+    },
+    {
+      "path": "Tanya and Luke.jpeg",
+      "size_bytes": 1489065,
+      "sha256": "e8f4285c916cc60161294984a5ef50cc5167905bf7e9e3d9400607204e9beb1d"
+    }
+  ]
+}

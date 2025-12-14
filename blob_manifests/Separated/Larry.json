@@ -1,0 +1,133 @@
+{
+  "collection_id": "Larry",
+  "generated_at": "2025-12-14T18:57:55Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "19d94f346b483a4bce4c5daa11712b17cd1e3771603c6719d134bf7705aab978.zip",
+    "size_bytes": 3475122,
+    "sha256": "19d94f346b483a4bce4c5daa11712b17cd1e3771603c6719d134bf7705aab978"
+  },
+  "files": [
+    {
+      "path": "Larry the norse warrior.jpg",
+      "size_bytes": 189656,
+      "sha256": "bf42e6eaa26b6ad21877acf5adf4f4351d453e4b19baf08d95bf403cb396d689"
+    },
+    {
+      "path": "Mar's Christmas Present.jpg",
+      "size_bytes": 342615,
+      "sha256": "755ae7740711386b53103e753746071e28ab2ed94376ace27a7d320426bbacf3"
+    },
+    {
+      "path": "guitarman.jpg",
+      "size_bytes": 91342,
+      "sha256": "25f5b660ebb2ceb71bba3e45273df044496bd98f4fb8d1c2580d0e438817d818"
+    },
+    {
+      "path": "larry (no comment).jpg",
+      "size_bytes": 182593,
+      "sha256": "cc4411ef46a9a553ca7cccb11039b0abf8a01a1cce88ec0b0fb7697de72aedbb"
+    },
+    {
+      "path": "larry and brian.jpg",
+      "size_bytes": 90971,
+      "sha256": "e41983f047d99670e7532ad94469887b19435164c5c32f386034ad206b951bce"
+    },
+    {
+      "path": "larry and friend.jpg",
+      "size_bytes": 50977,
+      "sha256": "50739191c98fc58210130fd7ded518e806be302d0df43b1af2c2b82201434344"
+    },
+    {
+      "path": "larry and jackie.jpg",
+      "size_bytes": 89060,
+      "sha256": "aab1b4bd8bd312a2a69881d416747345d00d4a22ae74e96523bee7c7c0210a83"
+    },
+    {
+      "path": "larry and josh.jpg",
+      "size_bytes": 258539,
+      "sha256": "f648b18f93d0cf70dd134e5770b1f4d796b32e90db6725a6df555fe95c5f1f96"
+    },
+    {
+      "path": "larry and kaya.jpg",
+      "size_bytes": 177221,
+      "sha256": "76b355adf0a605f4dd44c831087b7fdad48cb3322a67cd53d7ce66dfa53f018c"
+    },
+    {
+      "path": "larry and lisa.jpg",
+      "size_bytes": 132474,
+      "sha256": "3104cf67eae1bfc3057fe8fa29d8a141a2777fb2fb7feee6e973a6253ae9d1b4"
+    },
+    {
+      "path": "larry and rhonda.jpg",
+      "size_bytes": 172582,
+      "sha256": "b3c90e73bbac76bb835ba4b29db7330c93bd3ca710774068a5f4cce8debe5033"
+    },
+    {
+      "path": "larry and taylor.jpg",
+      "size_bytes": 152636,
+      "sha256": "c9f27811760f81c5df96de7f6542d9ea954d7b6bb5437d5f6a8c430f2c127ab3"
+    },
+    {
+      "path": "larry and theo.jpg",
+      "size_bytes": 38873,
+      "sha256": "ccaf68d598d9cf4f5503aa435997125df28309f7e0de68fb9b249aeda7ac2bc9"
+    },
+    {
+      "path": "larry at ease.jpg",
+      "size_bytes": 297945,
+      "sha256": "143151b2e188dcc8ea6106a3744d5388497d352c0fe9237790379155cad37db8"
+    },
+    {
+      "path": "larry the bbq man.jpg",
+      "size_bytes": 248854,
+      "sha256": "d821aaef65f39e3ce9e13e11bf24dd49f41ac807cfeb4143672a37bf2b3a9717"
+    },
+    {
+      "path": "larry the camper.jpg",
+      "size_bytes": 192900,
+      "sha256": "b82a93d21580838dc0f030287d24f9b343dd881607cb215f161280eceea3df2b"
+    },
+    {
+      "path": "larry the happy tequila drinker.jpg",
+      "size_bytes": 194850,
+      "sha256": "7fd226f34d5e3ad9396be3b576557448095f8f52b0a0227dfe7dc2439b93fd43"
+    },
+    {
+      "path": "larry the mc.jpg",
+      "size_bytes": 32843,
+      "sha256": "c1bb1dd5be363acac7c211a17e29409f583f744c512e150655da08dda6da4fc5"
+    },
+    {
+      "path": "larry the sailor man 002.jpg",
+      "size_bytes": 105502,
+      "sha256": "580c3a9f09c82aa16c0d2c4ee4b8e8f230f65c3656c25b11802c5ff2f280265a"
+    },
+    {
+      "path": "larry the sailor.jpg",
+      "size_bytes": 43151,
+      "sha256": "f48e29ab7de319ac5f4493070165866f9a20e2775cb2207813904cbf1b836b34"
+    },
+    {
+      "path": "larry the smoker.jpg",
+      "size_bytes": 24793,
+      "sha256": "b61e4bf7902c826366669dd6ada34165b4f800e885832285769185d88b84a153"
+    },
+    {
+      "path": "larry the sunworshipper.jpg",
+      "size_bytes": 89083,
+      "sha256": "3868fedce7fd4aff9147c863cd8a5c2e9290a7debbfa5ceed25fb0101294f1f7"
+    },
+    {
+      "path": "mr Clean.jpg",
+      "size_bytes": 157084,
+      "sha256": "be2015b689e5ef6de84f7d684248cd31d7ce6404b4ea0946283e9ed2d0204d9c"
+    },
+    {
+      "path": "tractor.jpg",
+      "size_bytes": 161887,
+      "sha256": "bf093e4391da61b39184c095754da6b156b8cd34c91a0504226f01e5b091c67d"
+    }
+  ]
+}

@@ -1,487 +1,579 @@
 {
   "schema_version": 1,
   "library": "family-photo-archive",
-  "generated_at": "2025-12-14T03:31:10Z",
+  "generated_at": "2025-12-14T18:59:31Z",
   "hash_algorithm": "sha256",
   "collections": [
     {
       "collection_id": "2000",
       "blob": {
-        "path": "Blobs/2000.zip",
-        "size_bytes": 257275,
-        "sha256": "539bcddbbabde50385b08c1adf38923af66b1298570533d6866ccdf35aa6e2a3"
+        "store": "blob-snapshots",
+        "object": "3de92e24e5edef3bdcb954c533aeff9b83b30b31c6603db4c15dba4f3589b5ab.zip",
+        "size_bytes": 257204,
+        "sha256": "3de92e24e5edef3bdcb954c533aeff9b83b30b31c6603db4c15dba4f3589b5ab"
       },
       "manifest": {
         "path": "2000.json",
-        "sha256": "db43e238218dd84bf6c4c25686d0034b0c098f5f122edb46066b78b093175cce"
+        "sha256": "b311c051a43f2ebc4c01060120a35c4938821bebb1a161f70e7b141502de8dca"
       }
     },
     {
       "collection_id": "2002",
       "blob": {
-        "path": "Blobs/2002.zip",
-        "size_bytes": 244994562,
-        "sha256": "ebcade71c43389b07f767e21b2395e7580e53ab3f3ad9225873677a89fc37e28"
+        "store": "blob-snapshots",
+        "object": "fcd610a3d0854f78b8b8d0dfc13db949ee7bfe9402490656c53e96bf208fee2f.zip",
+        "size_bytes": 245004152,
+        "sha256": "fcd610a3d0854f78b8b8d0dfc13db949ee7bfe9402490656c53e96bf208fee2f"
       },
       "manifest": {
         "path": "2002.json",
-        "sha256": "2863183ecd87b7c21dd91bd90e2b27682fdeedf98d18d0716db12d6c488c3663"
+        "sha256": "d91ce7ed2f216f96d0ef6b2311c093c8607d186517ee1d792f41e7f773859703"
       }
     },
     {
       "collection_id": "2003",
       "blob": {
-        "path": "Blobs/2003.zip",
-        "size_bytes": 673301508,
-        "sha256": "e091e7b1e3a327abb85c598d5d08ef2f66072b17ec5a915e2c5bf68c1b96954d"
+        "store": "blob-snapshots",
+        "object": "cb2f32b0bf6c105d595ec869a86d97bdc3a999590620609f79fc93e959896a51.zip",
+        "size_bytes": 673321135,
+        "sha256": "cb2f32b0bf6c105d595ec869a86d97bdc3a999590620609f79fc93e959896a51"
       },
       "manifest": {
         "path": "2003.json",
-        "sha256": "09fa63fc2dc3690ef80e3acfabd51bb762ecd91f2382633d9b484df83196748d"
+        "sha256": "b906bc0b75de1d3be9d0e1ba3991ca3b8e84340de1fbb90a1d18eafb14390590"
       }
     },
     {
       "collection_id": "2004",
       "blob": {
-        "path": "Blobs/2004.zip",
-        "size_bytes": 821151333,
-        "sha256": "c91996b100344a287b824b92fb7921941989edf6e515a690c20142ecaa4d8ec1"
+        "store": "blob-snapshots",
+        "object": "e5c5689e376e2d41436be3ce719faebb219021ff8c88b64185b1ac728d0034f0.zip",
+        "size_bytes": 821148297,
+        "sha256": "e5c5689e376e2d41436be3ce719faebb219021ff8c88b64185b1ac728d0034f0"
       },
       "manifest": {
         "path": "2004.json",
-        "sha256": "de1530c0899456b460fd70133a2cbe2ce4e06e7bea76ac9e5959e14ceaa1693a"
+        "sha256": "82f862e797739978efe668d6e55446528916ec27331f4e960edf8fb60eb9fb90"
       }
     },
     {
       "collection_id": "2005",
       "blob": {
-        "path": "Blobs/2005.zip",
-        "size_bytes": 549272826,
-        "sha256": "4433a89852d0b05d5b04f690cb1d948eaa8ae83985787cfe19e4277c7c146326"
+        "store": "blob-snapshots",
+        "object": "4116c228e2063b62078b8bfb5123688168a7938772b186a88a5b61b58b4d7f5d.zip",
+        "size_bytes": 549255064,
+        "sha256": "4116c228e2063b62078b8bfb5123688168a7938772b186a88a5b61b58b4d7f5d"
       },
       "manifest": {
         "path": "2005.json",
-        "sha256": "0026ca0798273fc2850fe01ae0ef828430f8b71e813756091cf516fd434613f2"
+        "sha256": "62dbbf70dc8157e98e6342520e542c2e11815a00df8b1eb83a0c57e3cb79da04"
       }
     },
     {
       "collection_id": "2006",
       "blob": {
-        "path": "Blobs/2006.zip",
-        "size_bytes": 1523152044,
-        "sha256": "3e9710ee22bdac1b43a46d05f5aa1ef1b32bc1c021df4f873104c3c66a4d84ee"
+        "store": "blob-snapshots",
+        "object": "5362c370881086a1be8cb80c0b756893fd6640cff6a2f6b2a389f03b40ff6b91.zip",
+        "size_bytes": 1523132408,
+        "sha256": "5362c370881086a1be8cb80c0b756893fd6640cff6a2f6b2a389f03b40ff6b91"
       },
       "manifest": {
         "path": "2006.json",
-        "sha256": "148a37e9614352083018bdd72529981e088302d1d807c95ddb1055adf8753bac"
+        "sha256": "3448b68ba546a4f5275849ba65525f39b651f26f217f2206b8cc58426005f39f"
       }
     },
     {
       "collection_id": "2007",
       "blob": {
-        "path": "Blobs/2007.zip",
-        "size_bytes": 2684367412,
-        "sha256": "83948e8929505737148c29a03ed36a797758ed67b426e576da4be6389d4914bc"
+        "store": "blob-snapshots",
+        "object": "4f5b7a386f9cf3a16fab115492962785102a0ec4d6e20f7c401e452c6f9908f4.zip",
+        "size_bytes": 2684330104,
+        "sha256": "4f5b7a386f9cf3a16fab115492962785102a0ec4d6e20f7c401e452c6f9908f4"
       },
       "manifest": {
         "path": "2007.json",
-        "sha256": "fbf65653cd22c3cf97609fb62bf538a3cd6631d812091eaf9b4d89a48bda5c96"
+        "sha256": "cadefa6616ae4e002c728cdc010f942fff2c09f136ba925b937b058b7cac94c4"
       }
     },
     {
       "collection_id": "2008",
       "blob": {
-        "path": "Blobs/2008.zip",
-        "size_bytes": 4506049996,
-        "sha256": "3fd0dabb4baeb3179204b5bcc18a21699594ba944e3cff3d82b10a9de279770f"
+        "store": "blob-snapshots",
+        "object": "d347c1b9edbb58b90a2ede43652b6bf7f8fa07d37bdc8614742901883e3fcc9a.zip",
+        "size_bytes": 4505820355,
+        "sha256": "d347c1b9edbb58b90a2ede43652b6bf7f8fa07d37bdc8614742901883e3fcc9a"
       },
       "manifest": {
         "path": "2008.json",
-        "sha256": "9b131a1e6ceb9eeb5159256cfddc8864b82e8548f5cbae082a487fe57de0ade6"
+        "sha256": "5bdfea8771e8226fd05fee33b1c1f323d4cd193b83f44cf04025c34967b8c2a7"
       }
     },
     {
       "collection_id": "2009",
       "blob": {
-        "path": "Blobs/2009.zip",
-        "size_bytes": 6795396436,
-        "sha256": "f3c30a8859acb4aef77493d2b17fae0503e0a2322528aadb3bfeb93d09c33b9c"
+        "store": "blob-snapshots",
+        "object": "286ec2dfe7b0c57f0b4d7594ea707552968b8138bd82f08eea5b3fdf5f9f80bb.zip",
+        "size_bytes": 6795023265,
+        "sha256": "286ec2dfe7b0c57f0b4d7594ea707552968b8138bd82f08eea5b3fdf5f9f80bb"
       },
       "manifest": {
         "path": "2009.json",
-        "sha256": "f9b01d60d57c4cc7b5a4072d9c7e9521297fe40951efc305ef821cde0e3b6038"
+        "sha256": "df0686366a58b4e595841124ca09eb4ced5b5274874f2cd6d8a72af178ec96d8"
       }
     },
     {
       "collection_id": "2010",
       "blob": {
-        "path": "Blobs/2010.zip",
-        "size_bytes": 7876229335,
-        "sha256": "6a0775cce41f61cabfb12070d11a1b339594dd0d781dc3d426c7f5618e7652fc"
+        "store": "blob-snapshots",
+        "object": "be63ecf75b38b5c57cbd7866ddfea94c7859230265ced283cbe14e3bbf0149ea.zip",
+        "size_bytes": 7876191765,
+        "sha256": "be63ecf75b38b5c57cbd7866ddfea94c7859230265ced283cbe14e3bbf0149ea"
       },
       "manifest": {
         "path": "2010.json",
-        "sha256": "7fc5c66c6de0ff152dfdf070ef99eac019ae1925ef32288ec94d4d5dcd345815"
+        "sha256": "237f6f5bd85b72914483b6cb0c7dbd7950b559729d91b91dfbfadeeeb00111c2"
       }
     },
     {
       "collection_id": "2011",
       "blob": {
-        "path": "Blobs/2011.zip",
-        "size_bytes": 2034651285,
-        "sha256": "d68df42a9d1ae077721fddcfbbe0b5275f5773ee69ba299ee7e874fc5814402a"
+        "store": "blob-snapshots",
+        "object": "cba1fe13fee6651302b828e51d2acb67fe953ad26fb4b73488907eae35fbe9cb.zip",
+        "size_bytes": 2335394809,
+        "sha256": "cba1fe13fee6651302b828e51d2acb67fe953ad26fb4b73488907eae35fbe9cb"
       },
       "manifest": {
         "path": "2011.json",
-        "sha256": "e9c9fbca25d6304d1a67fac86f14f833cabdcdfbb518e571f64e27ec95d8ee4a"
+        "sha256": "cfae4e31fa7bb81ad885601f3bc44bccd10b130365f44bd07e6fa192a9bc637b"
       }
     },
     {
       "collection_id": "2012",
       "blob": {
-        "path": "Blobs/2012.zip",
-        "size_bytes": 2915505855,
-        "sha256": "e95b788adceb958fee8db2976b278241ba2e2684426fbd5a38fd3244e742d8e0"
+        "store": "blob-snapshots",
+        "object": "6e2e5ddbde24232a6a43e141529856aef018d204696d732b52783ed9ce60541b.zip",
+        "size_bytes": 2915498678,
+        "sha256": "6e2e5ddbde24232a6a43e141529856aef018d204696d732b52783ed9ce60541b"
       },
       "manifest": {
         "path": "2012.json",
-        "sha256": "87820df258c82b51cb0273b129189e54527f64035eb4b33eb836048f73f4ebde"
+        "sha256": "260612aadd8f91dd01a8325e623c988cc627fdaace6020ff09f6e78f4380b92c"
       }
     },
     {
       "collection_id": "2013",
       "blob": {
-        "path": "Blobs/2013.zip",
-        "size_bytes": 14886309548,
-        "sha256": "36249548bb5dc4fab0df7eebf338d30e81007804f2cd2ef1180d446e97b53446"
+        "store": "blob-snapshots",
+        "object": "11ef17eacf384fc10af8220fd5574dd5450509db16acb8b7a402abd60efc6a31.zip",
+        "size_bytes": 14886423327,
+        "sha256": "11ef17eacf384fc10af8220fd5574dd5450509db16acb8b7a402abd60efc6a31"
       },
       "manifest": {
         "path": "2013.json",
-        "sha256": "450ec8368748e2d594ef0f17fd493c3574da4736bd8b581a0fd9d340df027774"
+        "sha256": "ab8cbbb2e22ee46d5a1d2da1c6023fe571dc9fcc81b51445694dd3fa622f8eca"
       }
     },
     {
       "collection_id": "2014",
       "blob": {
-        "path": "Blobs/2014.zip",
-        "size_bytes": 13284209482,
-        "sha256": "a8768c043933da0a400a975679bc4aa2307b51b74c2d4da58c5b1f10ffe46fab"
+        "store": "blob-snapshots",
+        "object": "652a40e0586714e0a07650d8c0f7706bb5b23614f3df1dded7e2f90c261ba746.zip",
+        "size_bytes": 13284249173,
+        "sha256": "652a40e0586714e0a07650d8c0f7706bb5b23614f3df1dded7e2f90c261ba746"
       },
       "manifest": {
         "path": "2014.json",
-        "sha256": "27f4561edc931ec9e2dd09fb0ef5691c4cdfaa6d1ed168810c9804e6e37494c7"
+        "sha256": "5b53f3e7fb6a4e29ed971c72bec8dd0199298ffd2072a9db308d17a57870516e"
       }
     },
     {
       "collection_id": "2015",
       "blob": {
-        "path": "Blobs/2015.zip",
-        "size_bytes": 1021494219,
-        "sha256": "0f5eff835f7d54af2c71e6dc5b2a67983815fab1253b27022506c067837ca8f7"
+        "store": "blob-snapshots",
+        "object": "e37ef30a04a0b748be90ade1cbad440171bce68dbe94c07410e1ab8b2cd76ca1.zip",
+        "size_bytes": 1021503877,
+        "sha256": "e37ef30a04a0b748be90ade1cbad440171bce68dbe94c07410e1ab8b2cd76ca1"
       },
       "manifest": {
         "path": "2015.json",
-        "sha256": "cd67185f6764bf0e08fbb4c67caa2510c5eea0f023df97239bbff2153a2403bf"
+        "sha256": "3af72b82c1beb8f6d98a2f03702a0f388920cae9c300df489b60d80493a6509c"
       }
     },
     {
       "collection_id": "2016",
       "blob": {
-        "path": "Blobs/2016.zip",
-        "size_bytes": 4121634941,
-        "sha256": "87a8a396f5235406b8a877d8ce2e9e21c28f7c3f2c585f01bd86c3d1fe3ddf68"
+        "store": "blob-snapshots",
+        "object": "6a1d2a63b6ccf8bf0c52b4563d6a7864d395463f3d1555ff3a3c7c777fedc306.zip",
+        "size_bytes": 4121677718,
+        "sha256": "6a1d2a63b6ccf8bf0c52b4563d6a7864d395463f3d1555ff3a3c7c777fedc306"
       },
       "manifest": {
         "path": "2016.json",
-        "sha256": "7ae588405040da7a287e05d3d2e400ea97a126f75c645590371441ba2d6950e3"
+        "sha256": "278522b68abfa7ee7c3cf854f73360bde80728a8f58baee439932a2de70c85e3"
       }
     },
     {
       "collection_id": "2017",
       "blob": {
-        "path": "Blobs/2017.zip",
-        "size_bytes": 855758183,
-        "sha256": "47f7f6556447cbb7a6c103bcf3fb64ab1465c0a829ec6d221a99770c1a31bf5f"
+        "store": "blob-snapshots",
+        "object": "871adca9b975f6369455683b6655463457e30482f22bcce83b418b53fd2a25ae.zip",
+        "size_bytes": 855762336,
+        "sha256": "871adca9b975f6369455683b6655463457e30482f22bcce83b418b53fd2a25ae"
       },
       "manifest": {
         "path": "2017.json",
-        "sha256": "61e00a3039a5014c065a1b0ba410feab6ac5a2b43ba8291d69661e3b8547fba8"
+        "sha256": "c3af612fb0ad02853b837553986a7b8bdfcd6476e148195e96fea7bb285062eb"
       }
     },
     {
       "collection_id": "2018",
       "blob": {
-        "path": "Blobs/2018.zip",
-        "size_bytes": 5587392088,
-        "sha256": "472ce1779802634d582cf09a61248f9aa362f948d2cc7d4e51394a06ef32f7c3"
+        "store": "blob-snapshots",
+        "object": "71536459c60fe792a025b8a561ebb57391733e9601f87cf85e67cf68bf61d9f5.zip",
+        "size_bytes": 5587458051,
+        "sha256": "71536459c60fe792a025b8a561ebb57391733e9601f87cf85e67cf68bf61d9f5"
       },
       "manifest": {
         "path": "2018.json",
-        "sha256": "5fe2c5bd807249b24ed19919ae670358540492fc3710bf38cd6de3dde697cde9"
+        "sha256": "12d67569eaa3c3f9d97ca8ccd9b2a952967482d0a05a646a8804dc8a316f65a6"
       }
     },
     {
       "collection_id": "2019",
       "blob": {
-        "path": "Blobs/2019.zip",
-        "size_bytes": 297309222,
-        "sha256": "a9d1e2bb2573b42f840aeaa5964ad0295d1d3b1b5a750e6ce276486c5e731f71"
+        "store": "blob-snapshots",
+        "object": "8cd2612135cb8c829304af6d7f2e9ab816b46cd247813a736139106acf624068.zip",
+        "size_bytes": 297330051,
+        "sha256": "8cd2612135cb8c829304af6d7f2e9ab816b46cd247813a736139106acf624068"
       },
       "manifest": {
         "path": "2019.json",
-        "sha256": "42fd45805fef7cad629d4479945c07a1f5fd38c475a0c8040dcbd083f716782a"
+        "sha256": "dd0f9736127aaf9bb78e42c50717f6c40d688288fd6b495d188f15571ca8fcd3"
       }
     },
     {
       "collection_id": "2020",
       "blob": {
-        "path": "Blobs/2020.zip",
-        "size_bytes": 14878722,
-        "sha256": "2e26cbd59ee30d50d71312cd95cd612fef643fee7f3ee550a06cabe8b1a52198"
+        "store": "blob-snapshots",
+        "object": "535679e3572d5ec615bb91deb0fb59cb743c2390060cbd081c2edf60b372d5f6.zip",
+        "size_bytes": 14878124,
+        "sha256": "535679e3572d5ec615bb91deb0fb59cb743c2390060cbd081c2edf60b372d5f6"
       },
       "manifest": {
         "path": "2020.json",
-        "sha256": "99da9ecfecd7090279c20c99a00f96988dc7bdb1f6243885a8a4e2e5000b03de"
+        "sha256": "d7e82e8e9694fab0a75376593ad5269c6ce2d384845cbed6d13cb18dbcca986b"
       }
     },
     {
       "collection_id": "2021",
       "blob": {
-        "path": "Blobs/2021.zip",
-        "size_bytes": 92668938,
-        "sha256": "71ce3c9ac13205eed65b25955ec5ddc380f3eeb4f8e2112938fc4f1cac67509b"
+        "store": "blob-snapshots",
+        "object": "66fa36b15ed411016f31f31bad800528ddf73884bdd2e08ad073dddf4f736f78.zip",
+        "size_bytes": 92670195,
+        "sha256": "66fa36b15ed411016f31f31bad800528ddf73884bdd2e08ad073dddf4f736f78"
       },
       "manifest": {
         "path": "2021.json",
-        "sha256": "e0f92d9745f53f200616c583b954f552010040ad394b9a4def6a2a2f15620136"
+        "sha256": "5d691f2c0c867dee6a83c7855fbcb9f18b692fada3bd32d11b7826a5fe93b2c7"
       }
     },
     {
       "collection_id": "2022",
       "blob": {
-        "path": "Blobs/2022.zip",
-        "size_bytes": 40724843,
-        "sha256": "40dc07d76e0ae975fa659c091484af22de5f36d2a1c6120f370bf3c4507d81d1"
+        "store": "blob-snapshots",
+        "object": "75b08254868f52422981fdc1e2681b71c5c5d0ce706b5a6f72f64e683d6d7178.zip",
+        "size_bytes": 40725692,
+        "sha256": "75b08254868f52422981fdc1e2681b71c5c5d0ce706b5a6f72f64e683d6d7178"
       },
       "manifest": {
         "path": "2022.json",
-        "sha256": "c3096467af6d76807057ad52a6d4b1577bdcbbc237e0afa4d5bdd0c0f585b6e1"
+        "sha256": "830db47abcf0b3df6aafe185803351436704bb88bbdbc9b3cf0abab9c32a6372"
       }
     },
     {
       "collection_id": "2023",
       "blob": {
-        "path": "Blobs/2023.zip",
-        "size_bytes": 241059766,
-        "sha256": "a8931006776aa572f7b615c61036aa7da14ab38907467d8acd74b68693573145"
+        "store": "blob-snapshots",
+        "object": "99728539c231c0d80a0c3c28d3ce83ff258ac25788b2e97de95384cb363418aa.zip",
+        "size_bytes": 241063830,
+        "sha256": "99728539c231c0d80a0c3c28d3ce83ff258ac25788b2e97de95384cb363418aa"
       },
       "manifest": {
         "path": "2023.json",
-        "sha256": "67dea1a203c6e233a63d7ca0fee3a04a2a58ec769c87db5c46e004f7259532da"
+        "sha256": "75f8132d7fdf34f2f0573aee900a1692823f462fbdeb48610f4da970b53c917d"
       }
     },
     {
       "collection_id": "2024",
       "blob": {
-        "path": "Blobs/2024.zip",
-        "size_bytes": 103725224,
-        "sha256": "1b606fc3c70830644187dac99da0884fefa3ce4fd55cb0e18205aff6c1f3b140"
+        "store": "blob-snapshots",
+        "object": "41c6e963654a1c9ce59155b2f5652d9964e85b441e76198ccbee76de8cc2a654.zip",
+        "size_bytes": 103727465,
+        "sha256": "41c6e963654a1c9ce59155b2f5652d9964e85b441e76198ccbee76de8cc2a654"
       },
       "manifest": {
         "path": "2024.json",
-        "sha256": "2ca89a9a12fc56ccdfb77a43588ebb379948dd5a83dec4f641b4de8d0ca64517"
+        "sha256": "e21728789a12111f99562620585f296c12c0f6816d2130991b36264a7e95930c"
       }
     },
     {
       "collection_id": "2025",
       "blob": {
-        "path": "Blobs/2025.zip",
-        "size_bytes": 1346588624,
-        "sha256": "8504a78f8291217fd02cb1f4880d025966b4a090f51c80bf07284e58b144b548"
+        "store": "blob-snapshots",
+        "object": "4e306485216c1a7a75c2bbc875dbb0e30434280dd2e44bddef1babd96940c904.zip",
+        "size_bytes": 1346616147,
+        "sha256": "4e306485216c1a7a75c2bbc875dbb0e30434280dd2e44bddef1babd96940c904"
       },
       "manifest": {
         "path": "2025.json",
-        "sha256": "3acbdea2ae209b172f1d593ce60b1e0edc0895ef43681f86f68f006f2be2821c"
+        "sha256": "4109c37aa7e8a9d427506918a528e688acfaf053683e199cd59b48a9402f7461"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2004",
+      "collection_id": "2004",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2004.zip",
-        "size_bytes": 1608898,
-        "sha256": "767f61482f17d64c9dfc5f0d8459212e4c8eadb19930980a21ea391a54b2f65c"
+        "store": "blob-snapshots",
+        "object": "d6e2821b71a8db67bd3b13e7ca8c8bd0b4797619a1057af352c70300045f477b.zip",
+        "size_bytes": 1608919,
+        "sha256": "d6e2821b71a8db67bd3b13e7ca8c8bd0b4797619a1057af352c70300045f477b"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2004.json",
-        "sha256": "6cc5ebc44cc0f70d5d66a4586e5e35746f9bc190f5b8806ad4c7ec945aae6e25"
+        "sha256": "ac57234d080544a709c4b18c3a8f6ecfd50aa13dc0a377e964c810e12669267c"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2007",
+      "collection_id": "2007",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2007.zip",
-        "size_bytes": 339680,
-        "sha256": "67a71946cfb9d0cb50e95b979f0b949d40124234896c4516f3aa2c94ab9f6a29"
+        "store": "blob-snapshots",
+        "object": "61ee6ae15495f5794055b0b1bb15c82fa4be606ea0825d1d9038fb4e5a082dcb.zip",
+        "size_bytes": 339755,
+        "sha256": "61ee6ae15495f5794055b0b1bb15c82fa4be606ea0825d1d9038fb4e5a082dcb"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2007.json",
-        "sha256": "17a16bc14d2cbe9a3246a22135de704191b373f81f0cca42fa866e91e81fd797"
+        "sha256": "5faac9473cdf4c5e8691d903889bff1540d2616233da7e36b9a7ee12a5760b24"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2008",
+      "collection_id": "2008",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2008.zip",
-        "size_bytes": 84578,
-        "sha256": "d47765ce665b21cf63d32e6cb470f1267800923e68f9463f824e5780a64929d1"
+        "store": "blob-snapshots",
+        "object": "05b42ecc2cc4d92c3a4bf914341697ce5f9b02d9da2072ee4e978b5dc8054ddc.zip",
+        "size_bytes": 84612,
+        "sha256": "05b42ecc2cc4d92c3a4bf914341697ce5f9b02d9da2072ee4e978b5dc8054ddc"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2008.json",
-        "sha256": "23c4d8b975562fc23274e946984a356358183b619e418cc7551c46dcb3274fca"
+        "sha256": "0d2435cbe8d2bbd5adf79eea74db99a7debaa470200bfd74c85ffb4d1d9bfd88"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2009",
+      "collection_id": "2009",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2009.zip",
-        "size_bytes": 24835459,
-        "sha256": "833ea4b160a49979612b4036122120d0056869ea511bb686b179a803013d9b85"
+        "store": "blob-snapshots",
+        "object": "5997e427fd4111f715e308ff3958077388628be5548411566ead62a470894615.zip",
+        "size_bytes": 24835277,
+        "sha256": "5997e427fd4111f715e308ff3958077388628be5548411566ead62a470894615"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2009.json",
-        "sha256": "a60faa02ae1a81becd59469d6f9faf9a14900c2e247f369a8963ec6d9f00c808"
+        "sha256": "a036bf37c27203524845ce5e6b3ec6c3c903f19fd2b4fe224e66a4b6470a43aa"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2010",
+      "collection_id": "2010",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2010.zip",
-        "size_bytes": 24279793,
-        "sha256": "348f148a0a3fcce0112cbddbad227be846965ba56cce34cdade6f2c5ccdd9a22"
+        "store": "blob-snapshots",
+        "object": "5183c71ad1e478e1d4f94f833b0ac0784fcef4299b58a08c9cdcf6525717ee91.zip",
+        "size_bytes": 24279589,
+        "sha256": "5183c71ad1e478e1d4f94f833b0ac0784fcef4299b58a08c9cdcf6525717ee91"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2010.json",
-        "sha256": "a6a71979543903f43d54257f65e64a095adffe14babdfa6245dfad5f2922ec7e"
+        "sha256": "8e7388a1986ecb7bd8cb42967b8c15ed84e1d7e554af3a5a2367016980dfb9d0"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2011",
+      "collection_id": "2011",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2011.zip",
-        "size_bytes": 22699193,
-        "sha256": "81d624eb4f5490e2c97045dee12dccf644609e2c7608bf37a3005d17e6d6cb84"
+        "store": "blob-snapshots",
+        "object": "e3d55b5188459bcd89c6b613beea19135aabbbdaa084691f05839212bac00165.zip",
+        "size_bytes": 22699396,
+        "sha256": "e3d55b5188459bcd89c6b613beea19135aabbbdaa084691f05839212bac00165"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2011.json",
-        "sha256": "968d5acc55d18a20cb2f9249963baae5418c7cfbe886eae28e7fd288ec2f1df6"
+        "sha256": "a8a400e5f08e862c1a07d1ac9baa080eaad8212b005cde9f3edd69044682e5ee"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2012",
+      "collection_id": "2012",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2012.zip",
-        "size_bytes": 4202335,
-        "sha256": "cb7946bdb1299c70984dcb992795091a6333b8cf7248cf63bc33579f93df7fec"
+        "store": "blob-snapshots",
+        "object": "83fc9c50fb2b55c049fec31a21b2601650c817e95a0dc796f3b6176bb10a8873.zip",
+        "size_bytes": 4199232,
+        "sha256": "83fc9c50fb2b55c049fec31a21b2601650c817e95a0dc796f3b6176bb10a8873"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2012.json",
-        "sha256": "cff2abc0fdb7efa79881830030bb259272b67934e8c5e3b15664af65f3fa6ad5"
+        "sha256": "3a72942c05d0444c5f03812694cd85261630cb45ae475fc2a0f70ea9757baf6c"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2013",
+      "collection_id": "2013",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2013.zip",
-        "size_bytes": 11739884,
-        "sha256": "31063ca05cc7d74aec209a83ab9cc4d10c4a14abfde3374c002e1c225f02d727"
+        "store": "blob-snapshots",
+        "object": "6d049e775407f1215e4a2b66bbf9a8040ba5154ceafdd0a1f16397620bb99c70.zip",
+        "size_bytes": 11739447,
+        "sha256": "6d049e775407f1215e4a2b66bbf9a8040ba5154ceafdd0a1f16397620bb99c70"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2013.json",
-        "sha256": "cb5b8a6a656bf66645c47f3c446e049936a2604f06d3a4947f480f116a9c93ce"
+        "sha256": "8b416cdcb8d78a8d365713cadb13d9f9b92e69e0ecb0f9a391ff735da926fa1b"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2014",
+      "collection_id": "2014",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2014.zip",
-        "size_bytes": 92529481,
-        "sha256": "d3b7d2ccbc98b5644da438423d40e85bc1aa95eb3dc44531313df166b5b74de5"
+        "store": "blob-snapshots",
+        "object": "ebe78220ad00718083a0af791ac24f5f3c793d097376c7bd6b0f6f585adba899.zip",
+        "size_bytes": 92529802,
+        "sha256": "ebe78220ad00718083a0af791ac24f5f3c793d097376c7bd6b0f6f585adba899"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2014.json",
-        "sha256": "cabc13a177a88dd7925ed19c3a828db98ed1e8fd0ea7dbb49fba84816e27a38c"
+        "sha256": "ab74e45575157ba6f87599e4693f08f30c564768030321197e25900f0ac2e975"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2015",
+      "collection_id": "2015",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2015.zip",
-        "size_bytes": 9394339,
-        "sha256": "8b34ce4ae4b615b8926a636577a89b359fc9b3b98d39e8895fc440fa7c11dab4"
+        "store": "blob-snapshots",
+        "object": "18fd60c9d446b5ab841d06c5572521def8c29c6da717bd9dd79443e66609d93c.zip",
+        "size_bytes": 9394309,
+        "sha256": "18fd60c9d446b5ab841d06c5572521def8c29c6da717bd9dd79443e66609d93c"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2015.json",
-        "sha256": "a8574172108f0f0a6d946cf475fb2aaf2aed9b2ff21ac60ccbe6b1bd49ef399f"
+        "sha256": "17426589c8c4e59ff8b8c76ace9d075057ed60094eed14be30772c17d2799867"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2018",
+      "collection_id": "2018",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2018.zip",
-        "size_bytes": 134888626,
-        "sha256": "91aacfeb21b9c449d6d8d53d43a5ad375be75e40b49cf19e9c8fcdcfe5fb5f10"
+        "store": "blob-snapshots",
+        "object": "62e6165beee406eb6807fbc6630aa44605628869918e118f5a890b5187e9843b.zip",
+        "size_bytes": 134884315,
+        "sha256": "62e6165beee406eb6807fbc6630aa44605628869918e118f5a890b5187e9843b"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2018.json",
-        "sha256": "5c4a748d7a61aabcc7b3927e3e27d1b70f44044de8c380550d5247d461b936d0"
+        "sha256": "4a89522f81997c002f870ec5ac631775827438ce375c53acb6d0864ce0dc161e"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2019",
+      "collection_id": "2019",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2019.zip",
-        "size_bytes": 26804723,
-        "sha256": "45535aa4b3c7ea579fa2ea113ba72dcb081e09912ac9de2e339ba7d7c301b4e1"
+        "store": "blob-snapshots",
+        "object": "bbfd2b0f6d82091556e4ed0b55e597417ac07df5f5a90aae6a314cb217bd5bf8.zip",
+        "size_bytes": 26805552,
+        "sha256": "bbfd2b0f6d82091556e4ed0b55e597417ac07df5f5a90aae6a314cb217bd5bf8"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2019.json",
-        "sha256": "3c4fda0d1b818562ba91d5a68b34b47a873b0c11dd62c9ea3b9cf590edb18bc6"
+        "sha256": "951fe625423960fdcb375add32548808b619684f4a3dd641a2f41c8af5620107"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/2024",
+      "collection_id": "2024",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/2024.zip",
-        "size_bytes": 198053,
-        "sha256": "b902f5d7107f5093ec8c94f4ad8996cb1255d710cee1ea9cf10b88a5f738b541"
+        "store": "blob-snapshots",
+        "object": "8bdb801e9b955e3c53b81ac35f1cf76d8a6e35eb3d140233de9604f915099dbb.zip",
+        "size_bytes": 197903,
+        "sha256": "8bdb801e9b955e3c53b81ac35f1cf76d8a6e35eb3d140233de9604f915099dbb"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/2024.json",
-        "sha256": "4f05a0552f86823a0803759338a259020d4994abc1997f9b4f49dfccb713a219"
+        "sha256": "a0eeb16effa7d9f6be129fdc34fd803d3a6718779f098be1b4a578c7bf5259d9"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/None/Photos",
+      "collection_id": "Photos",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/None/Photos.zip",
-        "size_bytes": 17036183,
-        "sha256": "e68dfebf2246f8878738df731dbe2af19f43d79fbe1b840732e01df165848411"
+        "store": "blob-snapshots",
+        "object": "ab9e73a18f7b14f8d332175b612ef829a74215d5e1030e4a6e35fec985ac8194.zip",
+        "size_bytes": 17034677,
+        "sha256": "ab9e73a18f7b14f8d332175b612ef829a74215d5e1030e4a6e35fec985ac8194"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/None/Photos.json",
-        "sha256": "b0c3930777e44bea9a4e6de7fcdb78e267de1f68aacd620d3b1f49c6c4f881df"
+        "sha256": "d6d15dd6120849c99477f31dfa5bcaf1b28d67c369d018b40c971a95c52fbe7c"
       }
     },
     {
-      "collection_id": "No Masters (Missing EXIF)/None/Videos",
+      "collection_id": "Videos",
       "blob": {
-        "path": "Blobs/No Masters (Missing EXIF)/None/Videos.zip",
-        "size_bytes": 1718731176,
-        "sha256": "18c9c2b4bf8f394c64351d01041e2ddb2859dded5caa1018c6fe883f62fdc810"
+        "store": "blob-snapshots",
+        "object": "ddd0e1d72ce8135f25dc2df8f27596d4ba695325957182b7222e94aece4530d2.zip",
+        "size_bytes": 1718678082,
+        "sha256": "ddd0e1d72ce8135f25dc2df8f27596d4ba695325957182b7222e94aece4530d2"
       },
       "manifest": {
         "path": "No Masters (Missing EXIF)/None/Videos.json",
-        "sha256": "2876c713b60cd8d5fa7b99bdbada7b0e288bf3bb797cdcf3213f17334ff96752"
+        "sha256": "e3116b9cae9216ae00595ebd051b87bf98d89b331e864f3e91b27006b5bb7887"
+      }
+    },
+    {
+      "collection_id": "Photo Booth & Silly Selfies",
+      "blob": {
+        "store": "blob-snapshots",
+        "object": "bf47831e7eea02334dd8d669970dc36f3bd18f8ab1401559fe5421a43093a214.zip",
+        "size_bytes": 900621682,
+        "sha256": "bf47831e7eea02334dd8d669970dc36f3bd18f8ab1401559fe5421a43093a214"
+      },
+      "manifest": {
+        "path": "Photo Booth & Silly Selfies.json",
+        "sha256": "0212b8fcea7cd5938bfbbf93864fa4f94af0a904b4f134d31c5bee6f3262b1c7"
+      }
+    },
+    {
+      "collection_id": "Kyle & Luke",
+      "blob": {
+        "store": "blob-snapshots",
+        "object": "07d493cb7b3be4cd181c1b22ef45327d0e7fd0c0c326bfa7969d486cbce27418.zip",
+        "size_bytes": 89328321,
+        "sha256": "07d493cb7b3be4cd181c1b22ef45327d0e7fd0c0c326bfa7969d486cbce27418"
+      },
+      "manifest": {
+        "path": "Separated/Kyle & Luke.json",
+        "sha256": "cc84b43b1c02ec0a03c72689593ebeae88f4beadfd64e4179bc89424f81de9a0"
+      }
+    },
+    {
+      "collection_id": "Larry",
+      "blob": {
+        "store": "blob-snapshots",
+        "object": "19d94f346b483a4bce4c5daa11712b17cd1e3771603c6719d134bf7705aab978.zip",
+        "size_bytes": 3475122,
+        "sha256": "19d94f346b483a4bce4c5daa11712b17cd1e3771603c6719d134bf7705aab978"
+      },
+      "manifest": {
+        "path": "Separated/Larry.json",
+        "sha256": "57b5f72de010f7caa50ae81419d2fa5769657b56df32df2a9b5e26daea2bb30c"
+      }
+    },
+    {
+      "collection_id": "Parents",
+      "blob": {
+        "store": "blob-snapshots",
+        "object": "27f08a35eab5bb50aaeacd6bbcb80bd5800f107dc23cbe8d2365aba9be22c5b8.zip",
+        "size_bytes": 1502783989,
+        "sha256": "27f08a35eab5bb50aaeacd6bbcb80bd5800f107dc23cbe8d2365aba9be22c5b8"
+      },
+      "manifest": {
+        "path": "Separated/Parents.json",
+        "sha256": "8bfd948d532cf06894459b3b1335bb05388b8ff57df6973313d41bf58460b16b"
       }
     }
   ]

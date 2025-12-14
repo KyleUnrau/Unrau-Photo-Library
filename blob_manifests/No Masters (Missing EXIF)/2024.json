@@ -1,0 +1,18 @@
+{
+  "collection_id": "2024",
+  "generated_at": "2025-12-14T18:55:35Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "8bdb801e9b955e3c53b81ac35f1cf76d8a6e35eb3d140233de9604f915099dbb.zip",
+    "size_bytes": 197903,
+    "sha256": "8bdb801e9b955e3c53b81ac35f1cf76d8a6e35eb3d140233de9604f915099dbb"
+  },
+  "files": [
+    {
+      "path": "Copy of Mom and Aunt Helen-e237a133.JPG",
+      "size_bytes": 209378,
+      "sha256": "3f723ce1d916f4996f46ac12fe216b34950ce1c5d966f4ff09dd595f05806a00"
+    }
+  ]
+}

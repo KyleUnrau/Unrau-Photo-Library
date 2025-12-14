@@ -1,0 +1,158 @@
+{
+  "collection_id": "2002",
+  "generated_at": "2025-12-14T18:03:48Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "fcd610a3d0854f78b8b8d0dfc13db949ee7bfe9402490656c53e96bf208fee2f.zip",
+    "size_bytes": 245004152,
+    "sha256": "fcd610a3d0854f78b8b8d0dfc13db949ee7bfe9402490656c53e96bf208fee2f"
+  },
+  "files": [
+    {
+      "path": "Picture 017-c86e4738.jpg",
+      "size_bytes": 92126,
+      "sha256": "8ecda5d7e204e67bff3ad468e0d31bd69dadeeb00a3a2d322d783df5e9ab8ac0"
+    },
+    {
+      "path": "Picture 018-eb293560.jpg",
+      "size_bytes": 82270,
+      "sha256": "bf4c5ce155f57c0d48da4c8476eeba37c395a81221438a79f7fad4bdceb94ccf"
+    },
+    {
+      "path": "Picture 023-0ccedc5c.jpg",
+      "size_bytes": 97478,
+      "sha256": "83448bd01fb58c5f1a60c4d4d1bf6bea8cf4f704787498441412cb666b1b4d8a"
+    },
+    {
+      "path": "SDC10726.JPG",
+      "size_bytes": 126051,
+      "sha256": "0b9031b89413f3e4d25f8fe62cb2c6a7cb23d2762c8c522e5a08cc958ef3a0d6"
+    },
+    {
+      "path": "clip-2002-12-13 16;25;40.MP4",
+      "size_bytes": 5595336,
+      "sha256": "940ccad32efc74d1072756ce0ba04322d54ba11bda89035573cc17993c75033e"
+    },
+    {
+      "path": "clip-2002-12-13 16;28;01.MP4",
+      "size_bytes": 5832225,
+      "sha256": "84aeaf2e6cb1c25334bde99820d6507886222060e224bba7e4004d8fb46a7e81"
+    },
+    {
+      "path": "clip-2002-12-13 16;30;10.MP4",
+      "size_bytes": 2276241,
+      "sha256": "42baa6ead0566743ef5850c7708b3a2b1435c239fe66f04ee13a815c086bdcc3"
+    },
+    {
+      "path": "clip-2002-12-13 16;31;46.MP4",
+      "size_bytes": 777551,
+      "sha256": "13bcf149a57b38c5f69c1b1694263dee3f245b5fd16edfa30500cb1052085a11"
+    },
+    {
+      "path": "clip-2002-12-13 16;34;27.MP4",
+      "size_bytes": 4561548,
+      "sha256": "ed77133db32d37dcb9887dcee17ca965275f43b811ebc0db3a2da01190074612"
+    },
+    {
+      "path": "clip-2002-12-13 16;36;30.MP4",
+      "size_bytes": 3344771,
+      "sha256": "9ec2a69a156daea85fc151b3452babfc53b89d7d37c2b1015c9b7075520b3e32"
+    },
+    {
+      "path": "clip-2002-12-13 16;37;01.MP4",
+      "size_bytes": 5200745,
+      "sha256": "4b64cb1a87069ed618731cb6e2b8c7091f47e10c7da2489760bbc005b4e59919"
+    },
+    {
+      "path": "clip-2002-12-13 20;41;35.MP4",
+      "size_bytes": 9584191,
+      "sha256": "6d65dd9ec793f2a0eb4e9a5f3b1866281d7c2ed96fef2de902de94c2d87f7236"
+    },
+    {
+      "path": "clip-2002-12-24 19;41;51.MP4",
+      "size_bytes": 17471676,
+      "sha256": "fa68ca480f3ba2f250e5bdfcc746a7d7b2028813f57b148a10d5f2ee55843a79"
+    },
+    {
+      "path": "clip-2002-12-24 19;58;03.MP4",
+      "size_bytes": 23743473,
+      "sha256": "c29ddcb9721ff28c15fe68989b122cbac6a1648c2c228d28b7128cecae5ef4e7"
+    },
+    {
+      "path": "clip-2002-12-24 20;14;26.MP4",
+      "size_bytes": 10285058,
+      "sha256": "540e457bf491c7a890ac50ba4677ddc855da2abb915e2ef0605782d24f056be4"
+    },
+    {
+      "path": "clip-2002-12-24 20;15;58.MP4",
+      "size_bytes": 16763244,
+      "sha256": "d505834650beb3c79bdb5913a4f6b7507f5b91915fa534de5212dc8212349f05"
+    },
+    {
+      "path": "clip-2002-12-24 20;18;42.MP4",
+      "size_bytes": 4423286,
+      "sha256": "2fb89972fe7a312da11ecff41d4cc54013619f0aa94d77ec0840faf98e716e6b"
+    },
+    {
+      "path": "clip-2002-12-24 21;45;06.MP4",
+      "size_bytes": 17988230,
+      "sha256": "2e42562343ca40b7a812e3d4c2f6aeea7720d6bbc03f8a04d84a42fac13e0829"
+    },
+    {
+      "path": "clip-2002-12-24 21;47;14.MP4",
+      "size_bytes": 12780401,
+      "sha256": "0a995b54ba475a171e60ed3ee22d0dc25ad47c8688584a712f1a9d97d008699b"
+    },
+    {
+      "path": "clip-2002-12-25 10;29;23.MP4",
+      "size_bytes": 6937661,
+      "sha256": "40b06e5685dad1bbc0df13e9ed90edc155670420fe3e9fe8896348672ccaa90e"
+    },
+    {
+      "path": "clip-2002-12-25 10;33;37.MP4",
+      "size_bytes": 5219599,
+      "sha256": "4d6ace43ff93c5938b89d64e2ac5dcae4f4965e5504c4ff6fbb187ad0d13c298"
+    },
+    {
+      "path": "clip-2002-12-25 12;20;59.MP4",
+      "size_bytes": 11167141,
+      "sha256": "fd12f04dadbae261af4f4f4556e2cc6db42fe4700a0ca02ee304f1feafb40b32"
+    },
+    {
+      "path": "clip-2002-12-25 12;22;42.MP4",
+      "size_bytes": 3893382,
+      "sha256": "8caa5114cb4c8746c7091b786722824e8c9e20981945d84399b2920592787e8f"
+    },
+    {
+      "path": "clip-2002-12-25 12;24;17.MP4",
+      "size_bytes": 5875429,
+      "sha256": "c376102d5ec9ea889d89e79dda0cedbd6ad7545f6f256e4b07c0f8cfbb9a803f"
+    },
+    {
+      "path": "clip-2002-12-25 12;26;39.MP4",
+      "size_bytes": 52208,
+      "sha256": "c875ce45e9e3d618503316d476ff9fa8fed1331215f21027296912dd77dcc2dd"
+    },
+    {
+      "path": "clip-2002-12-25 21;17;01.MP4",
+      "size_bytes": 44357950,
+      "sha256": "ef8238e5d2300da21db150a7fae3f1e02b6bcc63bb6c04c4e2f827ee9792444a"
+    },
+    {
+      "path": "clip-2002-12-25 21;21;44.MP4",
+      "size_bytes": 2311858,
+      "sha256": "7c044868a37799c0078e7559fdc1c42e78ffa61a1069ee416e5202142b29ed7f"
+    },
+    {
+      "path": "clip-2002-12-25 21;25;01.MP4",
+      "size_bytes": 5681561,
+      "sha256": "913097c5bb6dff4421af04e4d21ae67b8d36c7ceae5508b55569a06ac2606e76"
+    },
+    {
+      "path": "clip-2002-12-26 16;41;03.MP4",
+      "size_bytes": 19141977,
+      "sha256": "3d54647ae77f49d058cb725de315efd1de9f908a642665e18d2427633deb3496"
+    }
+  ]
+}

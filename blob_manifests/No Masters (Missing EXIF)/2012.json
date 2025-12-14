@@ -1,0 +1,268 @@
+{
+  "collection_id": "2012",
+  "generated_at": "2025-12-14T18:54:57Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "83fc9c50fb2b55c049fec31a21b2601650c817e95a0dc796f3b6176bb10a8873.zip",
+    "size_bytes": 4199232,
+    "sha256": "83fc9c50fb2b55c049fec31a21b2601650c817e95a0dc796f3b6176bb10a8873"
+  },
+  "files": [
+    {
+      "path": "Alaska  AugSept2009 080-f1a95d2d.jpg",
+      "size_bytes": 73591,
+      "sha256": "b00d5f16b0cadb7cb3b1f6dbe4b963e06adfa58199144b9907e1a13d823a4dce"
+    },
+    {
+      "path": "Alaska  AugSept2009 081-2bb639d4.jpg",
+      "size_bytes": 76212,
+      "sha256": "66975162863dd222c3ddabab49ce56a88a8aac658329c8f9ba659bbfea8a6435"
+    },
+    {
+      "path": "Alaska  AugSept2009 082-bf53e38e.jpg",
+      "size_bytes": 72306,
+      "sha256": "0312c56e5c3dda7ba6298d0b023c561894b1d647c2dcc92f87cb8dace059a7e7"
+    },
+    {
+      "path": "Costa Rica Feb.2010 001-b2037ff0.jpg",
+      "size_bytes": 59977,
+      "sha256": "3c09cb6da73c71600e48d10c030f8a538b3641f176f77106d159cf2ddb2e725d"
+    },
+    {
+      "path": "Luke CBE banner_sept19_12.jpg",
+      "size_bytes": 72560,
+      "sha256": "b88659d92a7f2ac75723d996ec0db3f93ecb15349b0c22650aa07cfeeb36bd3c"
+    },
+    {
+      "path": "MOV02952-4b447b63.jpg",
+      "size_bytes": 76498,
+      "sha256": "079e3ad683db708a3b317288b47f5252b2d8d79508a706d238c64776b84df65e"
+    },
+    {
+      "path": "MOV02957-04b209f8.jpg",
+      "size_bytes": 81102,
+      "sha256": "69132a32b8eeb637f722c1696510a39afd025c3e9ee1277eda98eaae5dc273d2"
+    },
+    {
+      "path": "MOV02958-a7ff025a.jpg",
+      "size_bytes": 73979,
+      "sha256": "427b5c4872e5e0d5847e001761cf16ac47ade36bb51a45e869502a82edb718ad"
+    },
+    {
+      "path": "MOV02959-018fe28a.jpg",
+      "size_bytes": 71119,
+      "sha256": "752549fb852f150af5d5adaca3d8cde6a8646b14f5b6f7d599da8ede17440733"
+    },
+    {
+      "path": "MOV02960-00a5042c.jpg",
+      "size_bytes": 64209,
+      "sha256": "bf1de70ed8b3b137f37ad04abffb3e01bbd1e7b1ae6c4e34cdff86cb237118a9"
+    },
+    {
+      "path": "MOV02961-7435d4d2.jpg",
+      "size_bytes": 77156,
+      "sha256": "e7480b6837976163f318ea09d8f45d0268926fc3833e3590031ce2171527818b"
+    },
+    {
+      "path": "MOV03035-c7a7ab66.jpg",
+      "size_bytes": 80180,
+      "sha256": "952d9162cd8e81fd74ea292a3dccd52c4ad288d71fcc8ce42d31c13cac92220c"
+    },
+    {
+      "path": "MOV03036-e4ea54c6.jpg",
+      "size_bytes": 68100,
+      "sha256": "f6aae2559b16f7019537055fa8e7bedbd4fdae7983df89f04c468f2a8d0b0386"
+    },
+    {
+      "path": "MOV03037-932f4793.jpg",
+      "size_bytes": 65639,
+      "sha256": "84c01b88cada9b749cbcc6514c60c0e66d25a04b269dfba9cc1a2f4f9c091205"
+    },
+    {
+      "path": "MOV03038-2ed92d17.jpg",
+      "size_bytes": 74328,
+      "sha256": "5c967e009903fd25c7443dd1a8db2f05e87748cf3c6b99a4c3fda830dc641130"
+    },
+    {
+      "path": "Oct 2010 001-cdcb3888.jpg",
+      "size_bytes": 73076,
+      "sha256": "17d28687f1a16170b0a3595a5e53a2bcfe140f65d40dce410132236160fae273"
+    },
+    {
+      "path": "Photo 1-4de46797.jpg",
+      "size_bytes": 73666,
+      "sha256": "a118a454e6c29ac400b3fd39f19d611d5c8a402342f46fe7220565a9b07ea6eb"
+    },
+    {
+      "path": "Photo 2-a8fa1e16.jpg",
+      "size_bytes": 90793,
+      "sha256": "3070a8bdcaf28fea62f0e49417214463d9e4cb75853fbe3781958b8665a5834e"
+    },
+    {
+      "path": "Photo 3-05e8aa40.jpg",
+      "size_bytes": 83745,
+      "sha256": "31624e7ce1027a79d25aebbef58d5fdbd0a01e3d2ce0629b2c8f4a0a16e49668"
+    },
+    {
+      "path": "Photo 4-a1c28e5b.jpg",
+      "size_bytes": 74447,
+      "sha256": "f7245d485a3894578abeebe5c77922074e57d4afefdafac0e3ce36b84367918f"
+    },
+    {
+      "path": "Rick Birthday & Flowers 002-b2990121.jpg",
+      "size_bytes": 74799,
+      "sha256": "1aaaac4efe64b4cc6ae4378d318c66e6a5c4cb0750a644703cfeb48bd38bd0b4"
+    },
+    {
+      "path": "Rick Birthday & Flowers 003-cc0ad542.jpg",
+      "size_bytes": 69708,
+      "sha256": "078304219ee14f220f5f5cb6b79cd1d8337a313d7ffd59659d059ce825c799a1"
+    },
+    {
+      "path": "Rick Birthday & Flowers 004-dc9e4cc9.jpg",
+      "size_bytes": 86010,
+      "sha256": "9764727768cf5044b068dda53db5e26b2c95c1f594cc8f27d6ca4db50a25ca02"
+    },
+    {
+      "path": "SDC11885.jpg",
+      "size_bytes": 38295,
+      "sha256": "fdfc759d544fc0838a1eb103bf8ef815a47351bfc5a615708acda97b94040e42"
+    },
+    {
+      "path": "Snapshot 2012-05-12 17-43-27.tiff",
+      "size_bytes": 640212,
+      "sha256": "f32d5fc0a41e73cac73d061481937ec0eec51eb384d662858306d489c0779f7e"
+    },
+    {
+      "path": "Thumbnail.jpg",
+      "size_bytes": 78728,
+      "sha256": "1f8c4ce3969b77e7bdefa77951be2c62211b4b253696207d4225f160ce2a3eae"
+    },
+    {
+      "path": "Zoo  July 2010 038-ab71dc88.jpg",
+      "size_bytes": 97786,
+      "sha256": "d11079fef7d542af4663405f5e8de936e9e1bc402c698ada6be265390b72d87c"
+    },
+    {
+      "path": "Zoo  July 2010 041-d0d19245.jpg",
+      "size_bytes": 101927,
+      "sha256": "9fa72db5fc4a2776a50067a6e48a6268e3550c8753b2369b556d92692ef7b749"
+    },
+    {
+      "path": "Zoo  July 2010 043-7212641a.jpg",
+      "size_bytes": 80797,
+      "sha256": "9822b85ff6996c40951253b3925bf5f720b9fc47c1acb2600561bf13e6f875c8"
+    },
+    {
+      "path": "Zoo  July 2010 044-0a34aaf6.jpg",
+      "size_bytes": 69699,
+      "sha256": "a96fc6ecf29bca7115ebe202f8a734b23569f9e9afaddafc2dc9ae47e0eed770"
+    },
+    {
+      "path": "Zoo  July 2010 045-69b74b15.jpg",
+      "size_bytes": 85385,
+      "sha256": "b5e92dbc6cfbb57c8b08f29517e6e3e199bd8d02e73fd4f1952ced93dfd96013"
+    },
+    {
+      "path": "Zoo  July 2010 047-fe4dd4d8.jpg",
+      "size_bytes": 86122,
+      "sha256": "abcd1902b131e54fd71010063052f952cfc789c4545c0e8c0662cc24bde74947"
+    },
+    {
+      "path": "Zoo  July 2010 048-26a60bea.jpg",
+      "size_bytes": 82074,
+      "sha256": "b7f43d935c2744a1758825fbcb0642d5bb2ffe2a0881ddac21dffb2f0bc194a8"
+    },
+    {
+      "path": "Zoo  July 2010 049-d8e86a3c.jpg",
+      "size_bytes": 82253,
+      "sha256": "60cc50d5ca1497ebc8691d8dd55613eb7e7ed753f3b933fc1560f3f985a68712"
+    },
+    {
+      "path": "Zoo  July 2010 052-0b0af5e3.jpg",
+      "size_bytes": 74114,
+      "sha256": "1186bbe149516cda45afdf44512ab83a3231a0dc8aa4ef13f7a5aef1af0b6b48"
+    },
+    {
+      "path": "Zoo  July 2010 055-095e7141.jpg",
+      "size_bytes": 73562,
+      "sha256": "eca9f1fbfa9388951982cfcd984f5b528f6034a8eaf0327cb419e064c4f74d9a"
+    },
+    {
+      "path": "Zoo  July 2010 056-a4925921.jpg",
+      "size_bytes": 79984,
+      "sha256": "e120932ded459a38348c8bab00fddea4f449120f5dfbbd6fe0de31f558412db1"
+    },
+    {
+      "path": "Zoo  July 2010 059-a3564800.jpg",
+      "size_bytes": 71126,
+      "sha256": "d43451ceadbbdd2346f83521061fcd7d284922bbcf2b9eec54125e3be89ca4ec"
+    },
+    {
+      "path": "Zoo  July 2010 060-5d5c7de3.jpg",
+      "size_bytes": 78681,
+      "sha256": "f52ff52878a167da5032b92255ac8f2009d3af8f3d9fe593cbaaafc359aaf2d9"
+    },
+    {
+      "path": "Zoo  July 2010 061-b7641629.jpg",
+      "size_bytes": 67433,
+      "sha256": "da51d52e686f99cd921eee9f7aab05d1eb95bafcf48a1fcc0f56a6695bf06a02"
+    },
+    {
+      "path": "Zoo  July 2010 062-60f40cb6.jpg",
+      "size_bytes": 76397,
+      "sha256": "5582e72a79c95cd4313b10fc52c4e8f977e9f4ffbc76b2dc0a67d1dce68b913d"
+    },
+    {
+      "path": "Zoo  July 2010 063-23caec17.jpg",
+      "size_bytes": 75698,
+      "sha256": "e18a286e10412d0bf34ef0798994cf0424aede5d39bcbcc991bfef54804b12bb"
+    },
+    {
+      "path": "Zoo  July 2010 064-e32ae02e.jpg",
+      "size_bytes": 90108,
+      "sha256": "dcd49d64908be0e3afa879007542ea1ce3ec4483e6eafb3c9fdd5195b7e18618"
+    },
+    {
+      "path": "Zoo  July 2010 065-bee1f943.jpg",
+      "size_bytes": 88808,
+      "sha256": "54a58427edc31343dce8d24030efd49e05bb2a567975c92e1ca7947dfbf64817"
+    },
+    {
+      "path": "Zoo  July 2010 066-c27379df.jpg",
+      "size_bytes": 83989,
+      "sha256": "e07c371155abbd58bb548efe4b59aacd5d3f87fa429ebc84cd9e7d9c18d28a5f"
+    },
+    {
+      "path": "Zoo  July 2010 067-7195edd5.jpg",
+      "size_bytes": 74680,
+      "sha256": "7023729a839970391c10d6ce5eb0325db389e907c687f20cc446d0c78b58afb7"
+    },
+    {
+      "path": "Zoo  July 2010 068-110e3200.jpg",
+      "size_bytes": 73572,
+      "sha256": "92e36d18d8100613faf4968c38e14d1ec874e076259004dcda021e1b7a06a5e0"
+    },
+    {
+      "path": "Zoo  July 2010 071-6e151998.jpg",
+      "size_bytes": 89033,
+      "sha256": "a11c6fa7bc0cf737362387cbeb2a3a1abb45f0b6c8c98ea7b1dcc05ab65662ea"
+    },
+    {
+      "path": "Zoo  July 2010 100-5ccd0d80.jpg",
+      "size_bytes": 51058,
+      "sha256": "e2f105888cb9efb1fd435d70e831d75e3afe0ce2d4ceeb6713aefe9f73da4d01"
+    },
+    {
+      "path": "fall 2010  Wpg  Oct 034-3142243c.jpg",
+      "size_bytes": 78147,
+      "sha256": "51b55cf8699111ce4f7f128059f53b92faa7f5cd11af39eeef81b52b582ad083"
+    },
+    {
+      "path": "fall 2010  Wpg  Oct 035-b83c7763.jpg",
+      "size_bytes": 88114,
+      "sha256": "cf27397b2bcdc2020cceacbd88554aece56acbfc87d3f6243b69cba297b093bc"
+    }
+  ]
+}

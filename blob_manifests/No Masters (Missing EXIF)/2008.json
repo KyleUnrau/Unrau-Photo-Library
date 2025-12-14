@@ -1,0 +1,28 @@
+{
+  "collection_id": "2008",
+  "generated_at": "2025-12-14T18:54:45Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "05b42ecc2cc4d92c3a4bf914341697ce5f9b02d9da2072ee4e978b5dc8054ddc.zip",
+    "size_bytes": 84612,
+    "sha256": "05b42ecc2cc4d92c3a4bf914341697ce5f9b02d9da2072ee4e978b5dc8054ddc"
+  },
+  "files": [
+    {
+      "path": "CIMG1872.jpg",
+      "size_bytes": 25821,
+      "sha256": "cdb9032ea9fe011252eef6f8a99739c614c7bfe9fe05b36b49e99296656baeec"
+    },
+    {
+      "path": "CIMG1906.jpg",
+      "size_bytes": 30197,
+      "sha256": "bd63d161ae058c25cb4e0836ea79e605cf103eee74b28eb1327a823168f24160"
+    },
+    {
+      "path": "DSC01068-47061f3b.jpg",
+      "size_bytes": 30299,
+      "sha256": "dd746c9d6c81d8fb7b7b6eb492c04027d24900e762cbeded2351b705378b5dcf"
+    }
+  ]
+}

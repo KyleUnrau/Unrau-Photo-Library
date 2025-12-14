@@ -1,0 +1,23 @@
+{
+  "collection_id": "2000",
+  "generated_at": "2025-12-14T18:03:38Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "3de92e24e5edef3bdcb954c533aeff9b83b30b31c6603db4c15dba4f3589b5ab.zip",
+    "size_bytes": 257204,
+    "sha256": "3de92e24e5edef3bdcb954c533aeff9b83b30b31c6603db4c15dba4f3589b5ab"
+  },
+  "files": [
+    {
+      "path": "Picture 024-a167ceb7.jpg",
+      "size_bytes": 133771,
+      "sha256": "d6873aac82aac8f6fbbbe9eef412aee03a282bb0a3902fcf19e7875e1203f325"
+    },
+    {
+      "path": "Picture 027-82c2dfb2.jpg",
+      "size_bytes": 130918,
+      "sha256": "6e2f5c13c2c425a36c1bc48edba4cb710e414d6de28617e54d6b0e3cb5e9a150"
+    }
+  ]
+}

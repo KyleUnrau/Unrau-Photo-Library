@@ -1,0 +1,68 @@
+{
+  "collection_id": "2020",
+  "generated_at": "2025-12-14T18:53:29Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "store": "blob-snapshots",
+    "object": "535679e3572d5ec615bb91deb0fb59cb743c2390060cbd081c2edf60b372d5f6.zip",
+    "size_bytes": 14878124,
+    "sha256": "535679e3572d5ec615bb91deb0fb59cb743c2390060cbd081c2edf60b372d5f6"
+  },
+  "files": [
+    {
+      "path": "61497767813__0E6FEACC-5C5E-4D35-9C03-4C3541A5AD93.JPG",
+      "size_bytes": 2636275,
+      "sha256": "1302bc51f8984088159b13cf17de86443a7f8f0884134db755e24479963f42ae"
+    },
+    {
+      "path": "61497767813__0E6FEACC-5C5E-4D35-9C03-4C3541A5AD93.MOV",
+      "size_bytes": 2330024,
+      "sha256": "fff0c774d98a7dd6f478c599623bf20b24009703b5625a9dcb4e7efb4663a8bf"
+    },
+    {
+      "path": "IMG_0436.JPEG",
+      "size_bytes": 1344438,
+      "sha256": "e30672e81541a68c2419cb30eaf98aa4d45f88c640bc8f3c2f70b21f6bfa5878"
+    },
+    {
+      "path": "IMG_0450.JPEG",
+      "size_bytes": 790810,
+      "sha256": "9fffe32812054aa0d2d027d647e4f4b6517c9b101a8036174d35f61893541603"
+    },
+    {
+      "path": "IMG_0451.JPEG",
+      "size_bytes": 990351,
+      "sha256": "b15862d774ffc4cc7ee1e87047ac3e0d7b245431ad82dcae9310d583d2a49786"
+    },
+    {
+      "path": "IMG_0452.JPEG",
+      "size_bytes": 796907,
+      "sha256": "53b285f80dd7e1bb035d4caa6a3017a6078c3c71eaf8606d0b16e23f957402de"
+    },
+    {
+      "path": "IMG_0453.JPEG",
+      "size_bytes": 856252,
+      "sha256": "85d50809fca478aa0695e07daccbd783e436c9f04c057fc3b83859c0bf2f853f"
+    },
+    {
+      "path": "IMG_0593.JPEG",
+      "size_bytes": 445155,
+      "sha256": "e2382030dca426f71306ca6aed8600e2d83c00191a380ddc17b0082da1d9b8d1"
+    },
+    {
+      "path": "IMG_0594.JPEG",
+      "size_bytes": 408472,
+      "sha256": "6ac632999978792ef72af6db71b93a7a72957f368161492c0248573b14f43d98"
+    },
+    {
+      "path": "IMG_1382.MOV",
+      "size_bytes": 1266170,
+      "sha256": "136f42835a81907010369d7d3f6fee1756e6c2583ee998d6e554e0b6e3b48b82"
+    },
+    {
+      "path": "IMG_1382.jpeg",
+      "size_bytes": 3095261,
+      "sha256": "455080576fd552a69cd5ebb711308a5fabb58bed10de02a80a5980fab35ff04b"
+    }
+  ]
+}
