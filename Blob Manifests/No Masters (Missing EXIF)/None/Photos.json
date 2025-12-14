@@ -1,0 +1,142 @@
+{
+  "collection_id": "No Masters (Missing EXIF)/None/Photos",
+  "generated_at": "2025-12-14T02:08:10Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "path": "Blobs/No Masters (Missing EXIF)/None/Photos.zip",
+    "size_bytes": 17036183,
+    "sha256": "e68dfebf2246f8878738df731dbe2af19f43d79fbe1b840732e01df165848411"
+  },
+  "files": [
+    {
+      "path": "1-a528cdc4.jpg",
+      "size_bytes": 170025,
+      "sha256": "ee7e2cc18a8e05f811f5dd13cd59b46442165a97d4ecd698fd6a59d22fbdbcec"
+    },
+    {
+      "path": "10.jpg",
+      "size_bytes": 250591,
+      "sha256": "ee861f21aa0baf78ada79514d664863e51ce43800a9cd316ee7d06316384c5b2"
+    },
+    {
+      "path": "11.jpg",
+      "size_bytes": 166204,
+      "sha256": "3ef5e46179402c1aeb1966b43a0916e22c39d59ce213f019307c67aa2da974e3"
+    },
+    {
+      "path": "12.jpg",
+      "size_bytes": 205055,
+      "sha256": "d7ae81fa35fdd156cda20b613d798f25765ac878740129ec45e26c44123f2361"
+    },
+    {
+      "path": "13.jpg",
+      "size_bytes": 199070,
+      "sha256": "20d44d3362389acf3f02361a824d80070357b23798bc70e6d12ae75622423f6c"
+    },
+    {
+      "path": "14.jpg",
+      "size_bytes": 255976,
+      "sha256": "37c605500a25477cfeea92c4650c9d37e393bc340d52f199e3b32a8d4587e6ba"
+    },
+    {
+      "path": "15.jpg",
+      "size_bytes": 232986,
+      "sha256": "e7866bf116f2873a1606f35c265230850c3d7d219b79681b910fbde519939873"
+    },
+    {
+      "path": "16.jpg",
+      "size_bytes": 191528,
+      "sha256": "153e387a23c00c4a840be0c17ea6f2c34913cf0105f1d14949dd2022a6a722e5"
+    },
+    {
+      "path": "17.jpg",
+      "size_bytes": 266038,
+      "sha256": "dc3d55dcf3e8d37e87bbd2dd52f9b3be4b9e47a58c88c71bba916f64217d0021"
+    },
+    {
+      "path": "18.jpg",
+      "size_bytes": 328435,
+      "sha256": "3dc62303c458bd3fd0d7b77b61abd6c76eef1c826dbbf0de683481fd78a89827"
+    },
+    {
+      "path": "19.jpg",
+      "size_bytes": 148760,
+      "sha256": "04ba1999f177d5ed01b1cfde018c10e8f81dda7f29ec38864cc4cb697e7cc4cf"
+    },
+    {
+      "path": "2.jpg",
+      "size_bytes": 206325,
+      "sha256": "9f3b7164e7a9fce98b26a421b9ade1b68589cb9d6dc8f42fa9920161b9ac4ac0"
+    },
+    {
+      "path": "20.jpg",
+      "size_bytes": 98565,
+      "sha256": "9a1d8a88c7a400984516220d475f75f0e04fd3ec764b1f98a690d3884985936b"
+    },
+    {
+      "path": "3.jpg",
+      "size_bytes": 202866,
+      "sha256": "87b594bada9e435ed1ab8f904d3dfcdf15a28b85436ecaa3c4bd55a9ff21735c"
+    },
+    {
+      "path": "4.jpg",
+      "size_bytes": 212616,
+      "sha256": "ab180e0843c150eeb026cd95298c1ce00232cf8302bd10df8eac709d6252e0b1"
+    },
+    {
+      "path": "5.jpg",
+      "size_bytes": 198127,
+      "sha256": "b2d7a7f8b6c0612c8d54d84a90f45ceb92e98082b83d6d8b0ffed901718cc793"
+    },
+    {
+      "path": "6.jpg",
+      "size_bytes": 299874,
+      "sha256": "286428a857fe272009ee399bb901b9f13574689df03a7c04c2fc0d0019b1a486"
+    },
+    {
+      "path": "7.jpg",
+      "size_bytes": 176071,
+      "sha256": "b7fe2f7ebe3638093aa3165814f72efbcb16250f62e4b4bc9446f45d5ead8e7e"
+    },
+    {
+      "path": "8.jpg",
+      "size_bytes": 169273,
+      "sha256": "ab6b6dfdce5beb009d5cd77679b21ba3eb0b71a599dc3c8613861142d558e2f4"
+    },
+    {
+      "path": "9.jpg",
+      "size_bytes": 247501,
+      "sha256": "01e8f8fba9f8f934d6ce2a83cbc394671ed93998058aa74802d1c010ea5ebd5a"
+    },
+    {
+      "path": "IMG_0150-fa91d806.jpg",
+      "size_bytes": 293394,
+      "sha256": "4ffc698feb5cd5e90f85b28ef0d25dd9f1af807b366f75c01886514686c37d09"
+    },
+    {
+      "path": "IMG_0245-364f6cea.jpg",
+      "size_bytes": 440698,
+      "sha256": "bb3accd54be84f3612a1de7ffa3759ab32c34c935ae23785994783ed1d9cd72e"
+    },
+    {
+      "path": "IMG_0254-1.jpg",
+      "size_bytes": 546095,
+      "sha256": "01abb73918ec62b76b233240ad41f28359d75e95bfc4d58019864f77f89480a4"
+    },
+    {
+      "path": "IMG_0678-df201b62.PNG",
+      "size_bytes": 5008929,
+      "sha256": "c993115d123661d95e8043a9ed8b9cd2b9e2b751198ca2aee770eed55a646f4f"
+    },
+    {
+      "path": "IMG_0679-29ceb4e7.PNG",
+      "size_bytes": 3192380,
+      "sha256": "144f041ce6f52f2bb0cfe815f71e2dbd17872c72bda6e20c6e170538c78fcf58"
+    },
+    {
+      "path": "IMG_3107.jpeg",
+      "size_bytes": 3398559,
+      "sha256": "afcd2dcb509fa531832467fec7b8092ebed0f81ee84ed3eb96c3aa84fb7b2d52"
+    }
+  ]
+}

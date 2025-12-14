@@ -1,0 +1,62 @@
+{
+  "collection_id": "No Masters (Missing EXIF)/2004",
+  "generated_at": "2025-12-14T02:08:03Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "path": "Blobs/No Masters (Missing EXIF)/2004.zip",
+    "size_bytes": 1608898,
+    "sha256": "767f61482f17d64c9dfc5f0d8459212e4c8eadb19930980a21ea391a54b2f65c"
+  },
+  "files": [
+    {
+      "path": "Larry and Shell.jpg",
+      "size_bytes": 126960,
+      "sha256": "0c211a20fea48f5a7153cf68caa77537518c12cd1a57024b4d761419ddf9f1da"
+    },
+    {
+      "path": "Young love.jpg",
+      "size_bytes": 257574,
+      "sha256": "39a6950248a5b2de71aa976995a33d123e8f2028c4bc88e97c478fa3faffe469"
+    },
+    {
+      "path": "larry and  kyle.jpg",
+      "size_bytes": 149658,
+      "sha256": "9accfbc13ccd6b09a2dbb825fce13660cfece99729cc31a6e509699333acc5c2"
+    },
+    {
+      "path": "larry and kyle #2.jpg",
+      "size_bytes": 87003,
+      "sha256": "a58d0df9452428057ec2fc5f2f54eb516fca668c450a90c73562489a43a71a81"
+    },
+    {
+      "path": "larry and luke.jpg",
+      "size_bytes": 406977,
+      "sha256": "52f896f23ed161d466d786035965c8e6779368a0ed4de41d38fb89ebcf44f101"
+    },
+    {
+      "path": "larry and the gang 2.jpg",
+      "size_bytes": 124175,
+      "sha256": "eff0c94797ec634222f88afd443054030fdb0008f3b6c41b6067ba69f1956963"
+    },
+    {
+      "path": "larry and the gang.jpg",
+      "size_bytes": 80803,
+      "sha256": "621401111e7b95d4b22630b5a84833141a1e802cce4025c6493aec541c5ea150"
+    },
+    {
+      "path": "larry cam tanya and rick #2.jpg",
+      "size_bytes": 159588,
+      "sha256": "5a099c67822bec188b8d0dc2009f8b8cd8f4d982b6a7778e7c6b0d479559d486"
+    },
+    {
+      "path": "larry cam tanya and rick.jpg",
+      "size_bytes": 117019,
+      "sha256": "547519cddff5a7f3a5e042c244824ba99e9aa1d22cee5a83171749ce8f2a987b"
+    },
+    {
+      "path": "larry colby and holly.jpg",
+      "size_bytes": 106086,
+      "sha256": "ba82554452057c2881ad6a81859361f35985ffc850831b2980e0020dc7573fcd"
+    }
+  ]
+}

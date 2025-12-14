@@ -1,0 +1,22 @@
+{
+  "collection_id": "2000",
+  "generated_at": "2025-12-14T02:01:13Z",
+  "hash_algorithm": "sha256",
+  "blob": {
+    "path": "Blobs/2000.zip",
+    "size_bytes": 257275,
+    "sha256": "539bcddbbabde50385b08c1adf38923af66b1298570533d6866ccdf35aa6e2a3"
+  },
+  "files": [
+    {
+      "path": "Picture 024-a167ceb7.jpg",
+      "size_bytes": 133771,
+      "sha256": "d6873aac82aac8f6fbbbe9eef412aee03a282bb0a3902fcf19e7875e1203f325"
+    },
+    {
+      "path": "Picture 027-82c2dfb2.jpg",
+      "size_bytes": 130918,
+      "sha256": "6e2f5c13c2c425a36c1bc48edba4cb710e414d6de28617e54d6b0e3cb5e9a150"
+    }
+  ]
+}

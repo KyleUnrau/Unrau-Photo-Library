@@ -1,0 +1,488 @@
+{
+  "schema_version": 1,
+  "library": "family-photo-archive",
+  "generated_at": "2025-12-14T02:08:20Z",
+  "hash_algorithm": "sha256",
+  "collections": [
+    {
+      "collection_id": "2000",
+      "blob": {
+        "path": "Blobs/2000.zip",
+        "size_bytes": 257275,
+        "sha256": "539bcddbbabde50385b08c1adf38923af66b1298570533d6866ccdf35aa6e2a3"
+      },
+      "manifest": {
+        "path": "2000.json",
+        "sha256": "9bf18838e18f5919690cb60dd2b1bc7974db2efe96926392b3ae32c6d64e9d5f"
+      }
+    },
+    {
+      "collection_id": "2002",
+      "blob": {
+        "path": "Blobs/2002.zip",
+        "size_bytes": 244994562,
+        "sha256": "ebcade71c43389b07f767e21b2395e7580e53ab3f3ad9225873677a89fc37e28"
+      },
+      "manifest": {
+        "path": "2002.json",
+        "sha256": "92ce6d7d3671a8d6ec5d7d393e767c23baf083055152a07f94a83f759ecad785"
+      }
+    },
+    {
+      "collection_id": "2003",
+      "blob": {
+        "path": "Blobs/2003.zip",
+        "size_bytes": 673301508,
+        "sha256": "e091e7b1e3a327abb85c598d5d08ef2f66072b17ec5a915e2c5bf68c1b96954d"
+      },
+      "manifest": {
+        "path": "2003.json",
+        "sha256": "be286be0ba18fbecdc4388e9aa183ec1a43ee7d2f79070cf8dc71442b4384d47"
+      }
+    },
+    {
+      "collection_id": "2004",
+      "blob": {
+        "path": "Blobs/2004.zip",
+        "size_bytes": 821151333,
+        "sha256": "c91996b100344a287b824b92fb7921941989edf6e515a690c20142ecaa4d8ec1"
+      },
+      "manifest": {
+        "path": "2004.json",
+        "sha256": "5f41e219e257031d0b18bea0222b9b2da9c4831b1c531b78b7e3222b0eaf191a"
+      }
+    },
+    {
+      "collection_id": "2005",
+      "blob": {
+        "path": "Blobs/2005.zip",
+        "size_bytes": 549272826,
+        "sha256": "4433a89852d0b05d5b04f690cb1d948eaa8ae83985787cfe19e4277c7c146326"
+      },
+      "manifest": {
+        "path": "2005.json",
+        "sha256": "ede6431268bb08f2f86d096ac11884dcbb7681512a25a4ab22892147971fc994"
+      }
+    },
+    {
+      "collection_id": "2006",
+      "blob": {
+        "path": "Blobs/2006.zip",
+        "size_bytes": 1523152044,
+        "sha256": "3e9710ee22bdac1b43a46d05f5aa1ef1b32bc1c021df4f873104c3c66a4d84ee"
+      },
+      "manifest": {
+        "path": "2006.json",
+        "sha256": "9858bce0c2c7f176ae72f75ba9464c654665196c3fd348e5ee760f88bdb4c6b9"
+      }
+    },
+    {
+      "collection_id": "2007",
+      "blob": {
+        "path": "Blobs/2007.zip",
+        "size_bytes": 2684367412,
+        "sha256": "83948e8929505737148c29a03ed36a797758ed67b426e576da4be6389d4914bc"
+      },
+      "manifest": {
+        "path": "2007.json",
+        "sha256": "4ba62800772b89202fe962a7233ae24d6e6ab716c6a2d397e2758e2c653e2e53"
+      }
+    },
+    {
+      "collection_id": "2008",
+      "blob": {
+        "path": "Blobs/2008.zip",
+        "size_bytes": 4506049996,
+        "sha256": "3fd0dabb4baeb3179204b5bcc18a21699594ba944e3cff3d82b10a9de279770f"
+      },
+      "manifest": {
+        "path": "2008.json",
+        "sha256": "5f857841c40a014c21e6dd3cf8226cedaf5367942787df3c615c885b9c92215b"
+      }
+    },
+    {
+      "collection_id": "2009",
+      "blob": {
+        "path": "Blobs/2009.zip",
+        "size_bytes": 6795396436,
+        "sha256": "f3c30a8859acb4aef77493d2b17fae0503e0a2322528aadb3bfeb93d09c33b9c"
+      },
+      "manifest": {
+        "path": "2009.json",
+        "sha256": "455d3ae2d66b07e18a706ec5c1c8d829f498f309e5d0082d9424878069dc22e9"
+      }
+    },
+    {
+      "collection_id": "2010",
+      "blob": {
+        "path": "Blobs/2010.zip",
+        "size_bytes": 7876229335,
+        "sha256": "6a0775cce41f61cabfb12070d11a1b339594dd0d781dc3d426c7f5618e7652fc"
+      },
+      "manifest": {
+        "path": "2010.json",
+        "sha256": "e04e8db7da17354dcc638ec1e67cfccf9c0790e1faa5c522ea51b55efce7ead3"
+      }
+    },
+    {
+      "collection_id": "2011",
+      "blob": {
+        "path": "Blobs/2011.zip",
+        "size_bytes": 2335407517,
+        "sha256": "1d75b39643d02d9200e6d9c682c9421e6711f3f835d4e0e50e30df9c5b557ec9"
+      },
+      "manifest": {
+        "path": "2011.json",
+        "sha256": "f98f9c66f5b43e78a0caf0ea3961c964579ed03247f3a7ccb8d6c4b6f4f3b57a"
+      }
+    },
+    {
+      "collection_id": "2012",
+      "blob": {
+        "path": "Blobs/2012.zip",
+        "size_bytes": 2915505855,
+        "sha256": "e95b788adceb958fee8db2976b278241ba2e2684426fbd5a38fd3244e742d8e0"
+      },
+      "manifest": {
+        "path": "2012.json",
+        "sha256": "c75770e6f1440d08c4ed26d7d6c0c6818071a36ee51f8929ebdc5c5ce33019e8"
+      }
+    },
+    {
+      "collection_id": "2013",
+      "blob": {
+        "path": "Blobs/2013.zip",
+        "size_bytes": 14886309548,
+        "sha256": "36249548bb5dc4fab0df7eebf338d30e81007804f2cd2ef1180d446e97b53446"
+      },
+      "manifest": {
+        "path": "2013.json",
+        "sha256": "fb77b2ca22d1d63ddbe99c8f8e87fd7170e1309ec73784604b743bc3834bf02c"
+      }
+    },
+    {
+      "collection_id": "2014",
+      "blob": {
+        "path": "Blobs/2014.zip",
+        "size_bytes": 13284209482,
+        "sha256": "a8768c043933da0a400a975679bc4aa2307b51b74c2d4da58c5b1f10ffe46fab"
+      },
+      "manifest": {
+        "path": "2014.json",
+        "sha256": "be0ed04eb67dd4da74252c25c280c2fd8dcf00b3b644e08ea5338d40d199e6f4"
+      }
+    },
+    {
+      "collection_id": "2015",
+      "blob": {
+        "path": "Blobs/2015.zip",
+        "size_bytes": 1021494219,
+        "sha256": "0f5eff835f7d54af2c71e6dc5b2a67983815fab1253b27022506c067837ca8f7"
+      },
+      "manifest": {
+        "path": "2015.json",
+        "sha256": "6eba47961553f7028d171ed13cbc3514e0934109f894b58f6fcc162872bf186a"
+      }
+    },
+    {
+      "collection_id": "2016",
+      "blob": {
+        "path": "Blobs/2016.zip",
+        "size_bytes": 4121634941,
+        "sha256": "87a8a396f5235406b8a877d8ce2e9e21c28f7c3f2c585f01bd86c3d1fe3ddf68"
+      },
+      "manifest": {
+        "path": "2016.json",
+        "sha256": "ae7e681eca5f8683c1e4c95e0c894a88c83eb48d9ce9d48891287afcff3ec195"
+      }
+    },
+    {
+      "collection_id": "2017",
+      "blob": {
+        "path": "Blobs/2017.zip",
+        "size_bytes": 855758183,
+        "sha256": "47f7f6556447cbb7a6c103bcf3fb64ab1465c0a829ec6d221a99770c1a31bf5f"
+      },
+      "manifest": {
+        "path": "2017.json",
+        "sha256": "8ac77c533e9c45357d143a11a7d8e75ea66a43b6a8ce4c9e36cfcd3d111ab4c9"
+      }
+    },
+    {
+      "collection_id": "2018",
+      "blob": {
+        "path": "Blobs/2018.zip",
+        "size_bytes": 5587392088,
+        "sha256": "472ce1779802634d582cf09a61248f9aa362f948d2cc7d4e51394a06ef32f7c3"
+      },
+      "manifest": {
+        "path": "2018.json",
+        "sha256": "49587400aff98cb4d0c55cc528f535255c77c78e11683b93896963dbc740ad12"
+      }
+    },
+    {
+      "collection_id": "2019",
+      "blob": {
+        "path": "Blobs/2019.zip",
+        "size_bytes": 297309222,
+        "sha256": "a9d1e2bb2573b42f840aeaa5964ad0295d1d3b1b5a750e6ce276486c5e731f71"
+      },
+      "manifest": {
+        "path": "2019.json",
+        "sha256": "f9df40020f15fbeaa2bd456d63057c34e2a873b37a6f1f7a6584887d90eda010"
+      }
+    },
+    {
+      "collection_id": "2020",
+      "blob": {
+        "path": "Blobs/2020.zip",
+        "size_bytes": 14878722,
+        "sha256": "2e26cbd59ee30d50d71312cd95cd612fef643fee7f3ee550a06cabe8b1a52198"
+      },
+      "manifest": {
+        "path": "2020.json",
+        "sha256": "acd4224c51a37e457003226655e52c91d176a9fe037a6f7726a94dd9724a8dd9"
+      }
+    },
+    {
+      "collection_id": "2021",
+      "blob": {
+        "path": "Blobs/2021.zip",
+        "size_bytes": 92668938,
+        "sha256": "71ce3c9ac13205eed65b25955ec5ddc380f3eeb4f8e2112938fc4f1cac67509b"
+      },
+      "manifest": {
+        "path": "2021.json",
+        "sha256": "6d4770175f80e61ce7acbba298a861d9aef69c4cad2ba9e5e96e0ecadfe64c08"
+      }
+    },
+    {
+      "collection_id": "2022",
+      "blob": {
+        "path": "Blobs/2022.zip",
+        "size_bytes": 40724843,
+        "sha256": "40dc07d76e0ae975fa659c091484af22de5f36d2a1c6120f370bf3c4507d81d1"
+      },
+      "manifest": {
+        "path": "2022.json",
+        "sha256": "812aec08688afe4ece2fd75e7697bc0b50a857b709a17afd8ad14a2f036a1474"
+      }
+    },
+    {
+      "collection_id": "2023",
+      "blob": {
+        "path": "Blobs/2023.zip",
+        "size_bytes": 241059766,
+        "sha256": "a8931006776aa572f7b615c61036aa7da14ab38907467d8acd74b68693573145"
+      },
+      "manifest": {
+        "path": "2023.json",
+        "sha256": "5df44cba586b6f024a6d8eda5f743c9486da1d605b47b6b6a565281ab18568e2"
+      }
+    },
+    {
+      "collection_id": "2024",
+      "blob": {
+        "path": "Blobs/2024.zip",
+        "size_bytes": 103725224,
+        "sha256": "1b606fc3c70830644187dac99da0884fefa3ce4fd55cb0e18205aff6c1f3b140"
+      },
+      "manifest": {
+        "path": "2024.json",
+        "sha256": "34599c5e51253a95085137c1a86c5aeed8c60683d1a4d0f02d1821ad212baa33"
+      }
+    },
+    {
+      "collection_id": "2025",
+      "blob": {
+        "path": "Blobs/2025.zip",
+        "size_bytes": 1346588624,
+        "sha256": "8504a78f8291217fd02cb1f4880d025966b4a090f51c80bf07284e58b144b548"
+      },
+      "manifest": {
+        "path": "2025.json",
+        "sha256": "453fe48a979844d96b889bf39fba06d417bbd5b8af1d520c75437037680b9b41"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2004",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2004.zip",
+        "size_bytes": 1608898,
+        "sha256": "767f61482f17d64c9dfc5f0d8459212e4c8eadb19930980a21ea391a54b2f65c"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2004.json",
+        "sha256": "17be16255ed6f8bec47f6ab174a5585f6047a09be4ee236f2760613186fefdba"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2007",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2007.zip",
+        "size_bytes": 339680,
+        "sha256": "67a71946cfb9d0cb50e95b979f0b949d40124234896c4516f3aa2c94ab9f6a29"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2007.json",
+        "sha256": "c634287a8a43fa56231a5672d7f795223cb09be854485ec52e65d352ef615b52"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2008",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2008.zip",
+        "size_bytes": 84578,
+        "sha256": "d47765ce665b21cf63d32e6cb470f1267800923e68f9463f824e5780a64929d1"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2008.json",
+        "sha256": "9b670a8513f13a27810d8cb7b74e04d937f03f8d9eb94c40c66d8a2ce98c2714"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2009",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2009.zip",
+        "size_bytes": 24835459,
+        "sha256": "833ea4b160a49979612b4036122120d0056869ea511bb686b179a803013d9b85"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2009.json",
+        "sha256": "160047e992a1ef2f795080ffa75f5348a24be02108fa8561a4a74e4771f307eb"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2010",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2010.zip",
+        "size_bytes": 24279793,
+        "sha256": "348f148a0a3fcce0112cbddbad227be846965ba56cce34cdade6f2c5ccdd9a22"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2010.json",
+        "sha256": "a869c87c161aea91878f5bb987aa147c812de4c492300c08ad229c894edff88f"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2011",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2011.zip",
+        "size_bytes": 22699193,
+        "sha256": "81d624eb4f5490e2c97045dee12dccf644609e2c7608bf37a3005d17e6d6cb84"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2011.json",
+        "sha256": "c20fe66f2754965992075b0785872c9b4b39f0b4f292d14abcfb97af4c73ca16"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2012",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2012.zip",
+        "size_bytes": 4202335,
+        "sha256": "cb7946bdb1299c70984dcb992795091a6333b8cf7248cf63bc33579f93df7fec"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2012.json",
+        "sha256": "31987b1b181278ab2a31cde5d0c5c7c1438d9dcde5dc5aa2117c7ba4cc57cc41"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2013",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2013.zip",
+        "size_bytes": 11739884,
+        "sha256": "31063ca05cc7d74aec209a83ab9cc4d10c4a14abfde3374c002e1c225f02d727"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2013.json",
+        "sha256": "6d74105ed0f8a872d36e1dff6f68097c0d3805b7d2dd6283e4c4177ca72841c7"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2014",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2014.zip",
+        "size_bytes": 92529481,
+        "sha256": "d3b7d2ccbc98b5644da438423d40e85bc1aa95eb3dc44531313df166b5b74de5"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2014.json",
+        "sha256": "b27c935a0011b6bae35d19154d2550aed53cd0fcf91904c61d9bd7fd3324d819"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2015",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2015.zip",
+        "size_bytes": 9394339,
+        "sha256": "8b34ce4ae4b615b8926a636577a89b359fc9b3b98d39e8895fc440fa7c11dab4"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2015.json",
+        "sha256": "23c1479ced6c9457643db196a70e61cc093594b9dd1a50f6fe1514c5b50b71be"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2018",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2018.zip",
+        "size_bytes": 134888626,
+        "sha256": "91aacfeb21b9c449d6d8d53d43a5ad375be75e40b49cf19e9c8fcdcfe5fb5f10"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2018.json",
+        "sha256": "2082bba9c7b10d908b36c593c2f5e32df0bc889eb619fa16bab6d44c028e7457"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2019",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2019.zip",
+        "size_bytes": 26804723,
+        "sha256": "45535aa4b3c7ea579fa2ea113ba72dcb081e09912ac9de2e339ba7d7c301b4e1"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2019.json",
+        "sha256": "296baf7a914f419d76877f7a4fbe126f95d9f023636840203a3781ba076505dc"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/2024",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/2024.zip",
+        "size_bytes": 198053,
+        "sha256": "b902f5d7107f5093ec8c94f4ad8996cb1255d710cee1ea9cf10b88a5f738b541"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/2024.json",
+        "sha256": "cf1b06bc1ec3ba3c7eb8f10cc6a9fd77ee63c7a03241472010102347daa037f8"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/None/Photos",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/None/Photos.zip",
+        "size_bytes": 17036183,
+        "sha256": "e68dfebf2246f8878738df731dbe2af19f43d79fbe1b840732e01df165848411"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/None/Photos.json",
+        "sha256": "e3781834e3351177ad5904a62064b1541351850ec858bbc61a4c16b2f982d96e"
+      }
+    },
+    {
+      "collection_id": "No Masters (Missing EXIF)/None/Videos",
+      "blob": {
+        "path": "Blobs/No Masters (Missing EXIF)/None/Videos.zip",
+        "size_bytes": 1718731176,
+        "sha256": "18c9c2b4bf8f394c64351d01041e2ddb2859dded5caa1018c6fe883f62fdc810"
+      },
+      "manifest": {
+        "path": "No Masters (Missing EXIF)/None/Videos.json",
+        "sha256": "66af7b1fcacf922f64f2af05178cba284e1cd3f2f02fdb88497104483829ecc3"
+      }
+    }
+  ]
+}
