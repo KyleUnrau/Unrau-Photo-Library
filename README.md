@@ -1,8 +1,8 @@
 # Canonical Family Photo Library – Manifest Repository
 
-![No Masters (Missing EXIF)/2007 -> a13793faf1e98ee3893526c31e6e9a11a323a9015a6ae0b8f1c0ed36efaea0e1](Other/HeroImage.jpg)
+![No Masters (Missing EXIF)/2007 -> a13793faf1e98ee3893526c31e6e9a11a323a9015a6ae0b8f1c0ed36efaea0e1](misc/HeroImage.jpg)
 
-> For information regarding the maintenance of library and generation of manifests click [here](Other/MAINTENANCE.md).
+> For information regarding the maintenance of library and generation of manifests click [here](misc/MAINTENANCE.md).
 
 ## What this repository is (plain‑English explanation)
 
@@ -163,4 +163,4 @@ This is the long‑term value of the system.
 
 This system exists so future family members can trust the archive — even decades from now.
 
-![2005 -> a284293c92b672858de4d5b3481e4fa5602904afbd2664d65ea7062c4f33780a](Other/HeroImage2.jpg)
+![2005 -> a284293c92b672858de4d5b3481e4fa5602904afbd2664d65ea7062c4f33780a](misc/HeroImage2.jpg)
